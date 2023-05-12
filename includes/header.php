@@ -1,155 +1,235 @@
- <!-- Header Area Start -->
- <header class="header-style-01">
-     <nav class="main-menu sticky-header">
-         <div class="main-menu-wrapper">
-             <div class="main-menu-logo">
-                 <a href="index.html">
-                     <img src="images/logo-light.svg" width="165" height="72" alt="logo" />
-                 </a>
-             </div>
-             <ul class="main-nav-menu">
-                 <li class="menu-has-sub">
-                     <a href="index.html">Home</a>
-                     <ul>
-                         <li><a href="index.html">Home Interior</a></li>
-                         <li><a href="home2.html">Architecture</a></li>
-                         <li><a href="home3.html">Kitchen Interior</a></li>
-                         <li class="menu-has-sub has-sub-child">
-                             <a href="index-rtl.html">Home RTL</a>
-                             <ul>
-                                 <li><a href="index-rtl.html">Home Interior (RTL)</a></li>
-                                 <li><a href="home2-rtl.html">Architecture (RTL)</a></li>
-                                 <li><a href="home3-rtl.html">Kitchen Interior (RTL)</a></li>
-                             </ul>
-                         </li>
-                         <li class="menu-has-sub has-sub-child">
-                             <a href="index-dark.html">Home Dark</a>
-                             <ul>
-                                 <li><a href="index-dark.html">Home Interior (Dark)</a></li>
-                                 <li><a href="home2-dark.html">Architecture (Dark)</a></li>
-                                 <li>
-                                     <a href="home3-dark.html">Kitchen Interior (Dark)</a>
-                                 </li>
-                             </ul>
-                         </li>
-                         <li class="menu-has-sub has-sub-child">
-                             <a href="page-header-style1.html">Header Styles</a>
-                             <ul>
-                                 <li>
-                                     <a href="page-header-style1.html">Header Style 01</a>
-                                 </li>
-                                 <li>
-                                     <a href="page-header-style2.html">Header Style 02</a>
-                                 </li>
-                                 <li>
-                                     <a href="page-header-style3.html">Header Style 03</a>
-                                 </li>
-                             </ul>
-                         </li>
-                     </ul>
-                 </li>
-                 <li class="menu-has-sub">
-                     <a href="page-about.html">Pages</a>
-                     <ul>
-                         <li><a href="page-about.html">About</a></li>
-                         <li class="menu-has-sub has-sub-child">
-                             <a href="page-team-style-01.html">Our Team</a>
-                             <ul>
-                                 <li><a href="page-team-style-01.html">Team 01</a></li>
-                                 <li><a href="page-team-style-02.html">Team 02</a></li>
-                                 <li><a href="page-team-details.html">Team Details</a></li>
-                             </ul>
-                         </li>
-                         <li><a href="page-pricing.html">Pricing</a></li>
-                         <li class="menu-has-sub has-sub-child">
-                             <a href="page-testimonials-style-01.html">Testimonials</a>
-                             <ul>
-                                 <li>
-                                     <a href="page-testimonials-style-01.html">Testimonials 01</a>
-                                 </li>
-                                 <li>
-                                     <a href="page-testimonials-style-02.html">Testimonials 02</a>
-                                 </li>
-                             </ul>
-                         </li>
-                         <li><a href="page-faqs.html">FAQs</a></li>
-                         <li><a href="404.html">404 Page</a></li>
-                     </ul>
-                 </li>
-                 <li class="menu-has-sub">
-                     <a href="page-services-style-01.html">Services</a>
-                     <ul>
-                         <li class="menu-has-sub has-sub-child">
-                             <a href="page-services-style-01.html">Services</a>
-                             <ul>
-                                 <li>
-                                     <a href="page-services-style-01.html">Services 01</a>
-                                 </li>
-                                 <li>
-                                     <a href="page-services-style-02.html">Services 02</a>
-                                 </li>
-                             </ul>
-                         </li>
-                         <li><a href="service-architecture.html">Architecture</a></li>
-                         <li><a href="service-interior-work.html">Interior Work</a></li>
-                         <li>
-                             <a href="service-kitchen-design.html">Kitchen Design</a>
-                         </li>
-                         <li>
-                             <a href="service-decoration-art.html">Decoration Art</a>
-                         </li>
-                         <li><a href="service-renovation.html">Renovation</a></li>
-                         <li>
-                             <a href="service-exterior-design.html">Exterior Design</a>
-                         </li>
-                     </ul>
-                 </li>
-                 <li class="menu-has-sub">
-                     <a href="page-projects.html">Projects</a>
-                     <ul>
-                         <li><a href="page-projects.html">Projects 01</a></li>
-                         <li>
-                             <a href="page-project-details.html">Projects Details</a>
-                         </li>
-                     </ul>
-                 </li>
-                 <li class="menu-has-sub">
-                     <a href="page-news.html">News</a>
-                     <ul>
-                         <li><a href="page-news.html">News Posts</a></li>
-                         <li>
-                             <a href="page-news-left-sidebar.html">News Left Sidebar</a>
-                         </li>
-                         <li>
-                             <a href="page-news-right-sidebar.html">News Right Sidebar</a>
-                         </li>
-                         <li><a href="page-news-details.html">News Details</a></li>
-                     </ul>
-                 </li>
-                 <li><a href="page-contact-us.html">Contact</a></li>
-             </ul>
-             <div class="main-menu-right">
-                 <a href="#" class="mobile-nav-toggler">
-                     <span></span>
-                     <span></span>
-                     <span></span>
-                 </a>
-                 <a href="#" class="search-toggler">
-                     <i class="base-icon-search-1"></i>
-                 </a>
-                 <div class="header-contact-info">
-                     <div class="header-contact-info-icon">
-                         <i class="base-icon-011-phone-1"></i>
-                     </div>
-                     <div class="header-contact-info-text">
-                         <p class="call-text">Call Anytime</p>
-                         <h5 class="phone-no">
-                             <a href="tel:123456789">+12 345 666 789</a>
-                         </h5>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </nav>
- </header>
- <!-- Header Area End -->
+<div class="preloader"></div>
+<!-- Main header-->
+<header class="main-header header-style-one">
+    <!--Start Header Top-->
+    <div class="header-top">
+        <div class="auto-container">
+            <div class="outer-box clearfix">
+
+                <div class="header-top-left pull-left">
+                    <div class="logo">
+                        <a href="index.html"><img src="assets/images/resources/logo.png" alt="Awesome Logo"
+                                title=""></a>
+                    </div>
+                </div>
+                <div class="header-top-right pull-right">
+                    <div class="header-contact-info clearfix">
+                        <ul class="clearfix">
+                            <li>
+                                <div class="icon">
+                                    <span class="flaticon-telephone thm-clr"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Call</p>
+                                    <h4><a href="tel:123456789">666 888 0000</a></h4>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <span class="flaticon-email thm-clr"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Email</p>
+                                    <h4><a href="mailto:logistic@email.com">needhelp@konsil.com</a></h4>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <span class="flaticon-pin-1 thm-clr"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Address</p>
+                                    <h4>77 broklyn street, USA</h4>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--End header Top-->
+
+    <div class="header">
+        <div class="auto-container">
+            <div class="outer-box clearfix">
+                <!--Start Header Left-->
+                <div class="header-left clearfix pull-left">
+                    <div class="nav-outer clearfix">
+                        <!--Mobile Navigation Toggler-->
+                        <div class="mobile-nav-toggler">
+                            <div class="inner">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </div>
+                        </div>
+
+                        <!-- Main Menu -->
+                        <nav class="main-menu style1 navbar-expand-md navbar-light">
+                            <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+                                <ul class="navigation clearfix">
+                                    <li class="dropdown current"><a href="#">Home</a>
+                                        <ul>
+                                            <li><a href="index.html">Home Page 01</a></li>
+                                            <li><a href="index-2.html">Home Page 02</a></li>
+                                            <li><a href="index-onepage.html">Home OnePage</a></li>
+                                            <li class="dropdown"><a href="#">Header Styles</a>
+                                                <ul>
+                                                    <li><a href="index.html">Header Style One</a></li>
+                                                    <li><a href="index-2.html">Header Style Two</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="#">Pages</a>
+                                        <ul>
+                                            <li><a href="about.html">About Us</a></li>
+                                            <li><a href="project.html">Our Work</a></li>
+                                            <li><a href="project-details.html">Work Details</a></li>
+                                            <li><a href="faq.html">Faq</a></li>
+                                            <li><a href="team.html">Our Team</a></li>
+                                            <li><a href="error.html">404 Error page</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="#">Services</a>
+                                        <ul>
+                                            <li><a href="services.html">View All Services</a></li>
+                                            <li><a href="ser-room-wallpapers.html">Room Wallpapers</a></li>
+                                            <li><a href="ser-wall-painting.html">Wall Painting</a></li>
+                                            <li><a href="ser-wall-sheets.html">Wall Sheets</a></li>
+                                            <li><a href="ser-interior-design.html">Interior Design</a></li>
+                                            <li><a href="ser-pvc-panels.html">PVC Panels</a></li>
+                                            <li><a href="ser-outdoor-designs.html">Outdoor Designs</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="#">Latest News</a>
+                                        <ul>
+                                            <li><a href="blog.html">Latest News</a></li>
+                                            <li><a href="blog-v2.html">News Grid View</a></li>
+                                            <li><a href="blog-single.html">News Details</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="index.html">Elements</a>
+                                        <div class="megamenu">
+                                            <div class="row clearfix">
+                                                <div class="col-lg-6 column">
+                                                    <ul>
+                                                        <li><a href="about-element-1.html">About Block 01</a></li>
+                                                        <li><a href="about-element-2.html">About Block 02</a></li>
+                                                        <li><a href="service-element-1.html">Service Block 01</a></li>
+                                                        <li><a href="service-element-2.html">Service Block 02</a></li>
+                                                        <li><a href="service-element-3.html">Service Block 03</a></li>
+                                                        <li><a href="team-element-1.html">Team Block 01</a></li>
+                                                        <li><a href="team-element-2.html">Team Block 02</a></li>
+                                                        <li><a href="blog-element-1.html">News Block 01</a></li>
+                                                        <li><a href="blog-element-2.html">News Block 02</a></li>
+
+                                                    </ul>
+                                                </div>
+                                                <div class="col-lg-6 column">
+                                                    <ul>
+                                                        <li><a href="blog-element-3.html">News Block 03</a></li>
+                                                        <li><a href="project-element-1.html">Project Block 01</a></li>
+                                                        <li><a href="project-element-2.html">Project Block 02</a></li>
+                                                        <li><a href="project-element-3.html">Project Block 03</a></li>
+                                                        <li><a href="testimonial-element-1.html">Testimonial Block</a>
+                                                        </li>
+                                                        <li><a href="fact-counter-element.html">Fact Counter Block</a>
+                                                        </li>
+                                                        <li><a href="partner-element-1.html">Partner Block 01</a></li>
+                                                        <li><a href="partner-element-2.html">Partner Block 02</a></li>
+                                                        <li><a href="faq-element.html">FAQ Block</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        <!-- Main Menu End-->
+
+                    </div>
+
+                </div>
+                <!--End Header Left-->
+
+                <!--Start Header Right-->
+                <div class="header-right pull-right clearfix">
+                    <div class="header-social-link">
+                        <ul>
+                            <li>
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="button">
+                        <a class="btn-one style2" href="#"><span class="txt">Get a Free Estimate</span></a>
+                    </div>
+                </div>
+                <!--End Header Right-->
+
+            </div>
+        </div>
+    </div>
+    <!--End header -->
+
+    <!--Sticky Header-->
+    <div class="sticky-header">
+        <div class="container">
+            <div class="clearfix">
+                <!--Logo-->
+                <div class="logo float-left">
+                    <a href="index.html" class="img-responsive"><img src="assets/images/resources/sticky-logo.png"
+                            alt="" title=""></a>
+                </div>
+                <!--Right Col-->
+                <div class="right-col float-right">
+                    <!-- Main Menu -->
+                    <nav class="main-menu clearfix">
+                        <!--Keep This Empty / Menu will come through Javascript-->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Sticky Header-->
+
+    <!-- Mobile Menu  -->
+    <div class="mobile-menu">
+        <div class="menu-backdrop"></div>
+        <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
+
+        <nav class="menu-box">
+            <div class="nav-logo"><a href="index.html"><img src="assets/images/resources/mobilemenu-logo.png" alt=""
+                        title=""></a></div>
+            <div class="menu-outer">
+                <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+            </div>
+            <!--Social Links-->
+            <div class="social-links">
+                <ul class="clearfix">
+                    <li><a href="#"><span class="fab fa fa-facebook-square"></span></a></li>
+                    <li><a href="#"><span class="fab fa fa-twitter-square"></span></a></li>
+                    <li><a href="#"><span class="fab fa fa-pinterest-square"></span></a></li>
+                    <li><a href="#"><span class="fab fa fa-google-plus-square"></span></a></li>
+                    <li><a href="#"><span class="fab fa fa-youtube-square"></span></a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <!-- End Mobile Menu -->
+</header>

@@ -1,1126 +1,927 @@
-<!-- Home Slider Start -->
-<section class="home_banner_01">
-    <div class="home-carousel owl-theme owl-carousel">
-        <div class="slide-item">
-            <div class="image-layer" data-background="images/bg/2.jpg"></div>
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-xl-8 col-lg-12 col-md-12 content-column">
-                        <div class="content-box">
-                            <h1 class="home-carousel-title">
-                                Providing Best <span class="text-primary-color">Home</span>
-                                <span class="text-obj1">Decore</span>
-                            </h1>
-                            <p class="home-carousel-text">
-                                We have almost 20+ years of experience for providing
-                                interior & Architectural services solutions
-                            </p>
-                            <div class="btn-box">
-                                <a href="page-contact-us.html" class="animate-btn-style3">Get In Touch</a>
-                            </div>
+<!-- Start Main Slider -->
+<section class="main-slider style1">
+    <div class="slider-box">
+        <!-- Banner Carousel -->
+        <div class="banner-carousel owl-theme owl-carousel">
+            <!-- Slide -->
+            <div class="slide">
+                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-1.jpg)"></div>
+                <div class="auto-container">
+                    <div class="content">
+                        <h3>Welcome to Interior Wallapering & Painting</h3>
+                        <div class="big-title">
+                            <h2>The Best Quality<br> Wallpapers For<br> Your Home.</h2>
+                        </div>
+                        <div class="btns-box">
+                            <a class="btn-one style2" href="#"><span class="txt">Discover More</span></a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="slide-item">
-            <div class="image-layer" data-background="images/bg/7.jpg"></div>
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-xl-8 col-lg-12 col-md-12 content-column">
-                        <div class="content-box">
-                            <h1 class="home-carousel-title">
-                                We Provide <span class="text-primary-color">Kitchen</span>
-                                <span class="text-obj1">design</span>
-                            </h1>
-                            <p class="home-carousel-text">
-                                We have almost 20+ years of experience for providing
-                                interior & Architectural services solutions
-                            </p>
-                            <div class="btn-box">
-                                <a href="page-services-style-01.html" class="animate-btn-style3">Our Services</a>
-                            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-2.jpg)"></div>
+                <div class="auto-container">
+                    <div class="content">
+                        <h3>Welcome to Interior Wallapering & Painting</h3>
+                        <div class="big-title">
+                            <h2>The Best Quality<br> Wallpapers For<br> Your Home.</h2>
+                        </div>
+                        <div class="btns-box">
+                            <a class="btn-one style2" href="#"><span class="txt">Discover More</span></a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="slide-item">
-            <div class="image-layer" data-background="images/bg/1.jpg"></div>
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-xl-8 col-lg-12 col-md-12 content-column">
-                        <div class="content-box">
-                            <h1 class="home-carousel-title">
-                                World class
-                                <span class="text-primary-color">interior</span>
-                                <span class="text-obj1">design</span>
-                            </h1>
-                            <p class="home-carousel-text">
-                                We have almost 20+ years of experience for providing
-                                interior & Architectural services solutions
-                            </p>
-                            <div class="btn-box">
-                                <a href="page-about.html" class="animate-btn-style3">Read More</a>
-                            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-3.jpg)"></div>
+                <div class="auto-container">
+                    <div class="content">
+                        <h3>Welcome to Interior Wallapering & Painting</h3>
+                        <div class="big-title">
+                            <h2>The Best Quality<br> Wallpapers For<br> Your Home.</h2>
+                        </div>
+                        <div class="btns-box">
+                            <a class="btn-one style2" href="#"><span class="txt">Discover More</span></a>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 </section>
-<!-- Home Slider End -->
-<!-- Features Style1 Section Start -->
-<section class="feature-style1-section">
-    <div class="custom-md-container">
-        <div class="feature-box-area-style1 bg-no-repeat bg-cover bg-pos-cc mrt-sm-110"
-            data-background="images/bg/feature-obj1.png">
-            <div class="row">
-                <div class="col-xl-2 col-lg-4 col-md-6">
-                    <div class="feature-box-style1">
-                        <div class="inner-box">
-                            <div class="feature-box-icon">
-                                <span class="webextheme-icon-interior-design-1"></span>
-                            </div>
-                            <h6 class="title">Interior Design</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-4 col-md-6">
-                    <div class="feature-box-style1">
-                        <div class="inner-box">
-                            <div class="feature-box-icon">
-                                <span class="webextheme-icon-kitchen"></span>
-                            </div>
-                            <h6 class="title">Kitchen Interior</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-4 col-md-6">
-                    <div class="feature-box-style1">
-                        <div class="inner-box">
-                            <div class="feature-box-icon">
-                                <span class="webextheme-icon-architect-4"></span>
-                            </div>
-                            <h6 class="title">Skilled Team</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-4 col-md-6">
-                    <div class="feature-box-style1">
-                        <div class="inner-box">
-                            <div class="feature-box-icon">
-                                <span class="base-icon-071-guarantee"></span>
-                            </div>
-                            <h6 class="title">Trusted Work</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-4 col-md-6">
-                    <div class="feature-box-style1">
-                        <div class="inner-box">
-                            <div class="feature-box-icon">
-                                <span class="base-icon-166-money"></span>
-                            </div>
-                            <h6 class="title">Low Cost</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-4 col-md-6">
-                    <div class="feature-box-style1">
-                        <div class="inner-box">
-                            <div class="feature-box-icon">
-                                <span class="base-icon-135-quality"></span>
-                            </div>
-                            <h6 class="title">Award Winner</h6>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<!-- End Main Slider -->
+
+
+<!--Start About Style1 Area-->
+<section class="about-style1-area">
+    <div class="shape1 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+        <img src="assets/images/shape/shape-1.png" alt="">
     </div>
-</section>
-<!-- Features Style1 Section End -->
-<!-- About Section Start -->
-<section class="about-section pdt-110 pdb-105 bg-no-repeat bg-cover bg-pos-cb" data-background="images/bg/abs-bg3.png"
-    data-overlay-light="4">
+    <div class="shape2 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="3500ms">
+        <img src="assets/images/shape/shape-2.png" alt="">
+    </div>
     <div class="container">
         <div class="row">
-            <div class="col-md-12 col-lg-8 col-xl-6 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <div class="about-image-box-style1 about-side-line mrr-60 mrr-lg-0">
-                    <figure class="about-image1 js-tilt d-none d-md-block d-lg-block d-xl-block">
-                        <img class="img-full" src="images/about/about-sm1.jpg" alt="" />
-                    </figure>
-                    <figure class="about-image2">
-                        <img class="img-full" src="images/about/about-lg1.jpg" alt="" />
-                    </figure>
-                </div>
-            </div>
-            <div class="col-md-12 col-lg-10 col-xl-6 wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <h5 class="side-line-left subtitle text-primary-color">
-                    About Our Company
-                </h5>
-                <h2 class="mrb-45 mrb-lg-35">
-                    Providing the best
-                    <span class="text-primary-color">architecture</span> & interior
-                    design services
-                </h2>
-                <p class="about-text-block mrb-40">
-                    Lorem ipsum dolor sit amet consectetur convallis ultrices sociis
-                    fermentum orci nasceture convallis ultrices sociis
-                </p>
-                <div class="row mrb-30 mrb-lg-40">
-                    <div class="col-xl-6 col-lg-6 col-md-12">
-                        <ul class="order-list primary-color">
-                            <li>business applications through</li>
-                            <li>procedures whereas processes</li>
+            <div class="col-xl-6">
+                <div class="about-style1-content-box">
+                    <div class="sec-title">
+                        <div class="sub-title">
+                            <h3>About Wazors</h3>
+                        </div>
+                        <h2>We’re Leader in Interior<br> Design Market</h2>
+                    </div>
+                    <div class="inner-content">
+                        <div class="text">
+                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                                suffered alteration in some form, by injected humour, or randomised words which don't
+                                look even slightly believable.</p>
+                        </div>
+                        <ul>
+                            <li><span class="flaticon-tick"></span>We’re professional and certified designers</li>
+                            <li><span class="flaticon-tick"></span>We use quality material to make your walls awesome
+                            </li>
+                            <li><span class="flaticon-tick"></span>We care about our customers satisfaction</li>
                         </ul>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-12">
-                        <ul class="order-list primary-color">
-                            <li>revolutionary catalysts for chang</li>
-                            <li>catalysts for chang the Seamlessly</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row no-gutters">
-                    <div class="col-xl-7 col-lg-7 col-md-6 col-sm-6">
-                        <div class="featured-icon-box mrb-15">
-                            <div class="featured-icon">
-                                <i class="webexflaticon webextheme-icon-003-staircase"></i>
+                        <div class="bottom-box">
+                            <div class="icon">
+                                <span class="flaticon-armchair"></span>
                             </div>
-                            <div class="featured-content">
-                                <h4 class="featured-title">Exclusive Design</h4>
-                                <p class="featured-desc">
-                                    Quickly productivate just in time strategic theme lacus
-                                    mirina magna
-                                </p>
+                            <div class="title">
+                                <h3>We have 30+ years of experiences for give you better quality results.</h3>
                             </div>
-                        </div>
-                        <div class="featured-icon-box mrb-sm-40">
-                            <div class="featured-icon">
-                                <i class="webexflaticon base-icon-158-employee-2"></i>
-                            </div>
-                            <div class="featured-content">
-                                <h4 class="featured-title">Professional Team</h4>
-                                <p class="featured-desc mrb-0">
-                                    Quickly productivate just in time strategic theme lacus
-                                    mirina magna
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-5 col-lg-5 col-md-6 col-sm-6">
-                        <div class="experience">
-                            <p class="experience-text">
-                                We have more than years of experience
-                            </p>
-                            <h4 class="experience-year">14+</h4>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-xl-6">
+                <div class="about-style1-image-box">
+                    <div class="shape3">
+                        <img src="assets/images/shape/shape-3.png" alt="">
+                    </div>
+                    <div class="main-image">
+                        <img src="assets/images/about/about-1.png" alt="Awesome Image">
+                        <div class="icon-box thm-bgclr paroller-2">
+                            <span class="flaticon-wallpaper"></span>
+                            <h3>Founded<br> in 1987</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
-<!-- About Section End -->
-<!-- Service Section Title Area Start -->
-<section class="service-title-section bg-silver bg-no-repeat bg-cover bg-pos-cb pdt-105 pdb-200"
-    data-background="images/bg/abs-bg2.png">
-    <div class="service-title-section-obj1">
-        <img src="images/objects/3.png" alt="" />
-    </div>
-    <div class="section-title mrb-55 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-7 col-md-12">
-                    <div class="title-box-center">
-                        <h5 class="side-line-left text-primary-color mrb-10">
-                            Our Services
-                        </h5>
-                        <h2 class="mrb-25">
-                            We Provide
-                            <span class="text-primary-color">Interior</span> Design
-                            Services
-                        </h2>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-5 col-md-12">
-                    <p class="mrb-0 mrb-md-40">
-                        Lorem ipsum dolor sit amet consectetur adipiscing, elit augue
-                        curae duis pellentesque proin, quam faucibus sem netus ante.
-                        Nisi vitae lacinia platea eleifend accumsan facilisis viverra
-                        habitant arcu feugiat donec aliquet
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Service Section Title Area End -->
-<!-- Service Section Area Start -->
-<section class="service-section-style1 bg-no-repeat bg-cover bg-pos-cb" data-background="images/bg/abs-bg7.png">
-    <div class="section-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-3 col-lg-6 col-md-6">
-                    <div class="service-style1">
-                        <div class="service-inner">
-                            <i class="service-icon webextheme-icon-003-staircase"></i>
-                            <h4 class="service-title">Interior work</h4>
-                            <div class="services-count"></div>
-                            <p class="service-description">
-                                Lorem ipsum dolor sit amet consectetur adipiscing ipsum
-                                rephen elit libero facilisis etiam ridiculus
-                            </p>
-                            <div class="services-link">
-                                <a class="text-btn" href="service-architecture.html">Read More</a>
-                            </div>
-                            <div class="service-inner-obj"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6">
-                    <div class="service-style1">
-                        <div class="service-inner">
-                            <i class="service-icon webextheme-icon-armchair"></i>
-                            <h4 class="service-title">Light Decoration</h4>
-                            <div class="services-count"></div>
-                            <p class="service-description">
-                                Lorem ipsum dolor sit amet consectetur adipiscing ipsum
-                                rephen elit libero facilisis etiam ridiculus
-                            </p>
-                            <div class="services-link">
-                                <a class="text-btn" href="service-architecture.html">Read More</a>
-                            </div>
-                            <div class="service-inner-obj"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6">
-                    <div class="service-style1">
-                        <div class="service-inner">
-                            <i class="service-icon webextheme-icon-kitchen"></i>
-                            <h4 class="service-title">Kitchen Design</h4>
-                            <div class="services-count"></div>
-                            <p class="service-description">
-                                Lorem ipsum dolor sit amet consectetur adipiscing ipsum
-                                rephen elit libero facilisis etiam ridiculus
-                            </p>
-                            <div class="services-link">
-                                <a class="text-btn" href="service-architecture.html">Read More</a>
-                            </div>
-                            <div class="service-inner-obj"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6">
-                    <div class="service-style1">
-                        <div class="service-inner">
-                            <i class="service-icon webextheme-icon-architect"></i>
-                            <h4 class="service-title">Home Decoration</h4>
-                            <div class="services-count"></div>
-                            <p class="service-description">
-                                Lorem ipsum dolor sit amet consectetur adipiscing ipsum
-                                rephen elit libero facilisis etiam ridiculus
-                            </p>
-                            <div class="services-link">
-                                <a class="text-btn" href="service-architecture.html">Read More</a>
-                            </div>
-                            <div class="service-inner-obj"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row mrt-30">
-                <div class="col-xl-12 text-center">
-                    <div class="service-load-more">
-                        <h5 class="text">
-                            Do You Want To explore more services just
-                            <span><a href="page-services-style-02.html" class="text-underline text-primary-color">click
-                                    here</a></span>
-                        </h5>
-                    </div>
-                </div>
-            </div>
-            <div class="row mrt-110">
-                <div class="col-xl-12">
-                    <div class="before-after-slider1">
-                        <!-- The before image is first -->
-                        <img src="images/before-after/1.jpg" alt="img1" />
-                        <!-- The after image is last -->
-                        <img src="images/before-after/2.jpg" alt="img1" />
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Service Section Area End -->
-<!-- Working Steps Section Start -->
-<section class="working-process-section bg-secondary-color bg-no-repeat bg-cover bg-pos-cb pdt-300 pdb-105"
-    data-background="images/bg/abs-bg4.png" data-overlay-dark="2">
-    <div class="section-title text-center wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-        <div class="container">
-            <div class="row">
-                <div class="col"></div>
-                <div class="col-md-12 col-lg-10 col-xl-6">
-                    <div class="title-box">
-                        <h5 class="text-primary-color mrb-10">How We Works</h5>
-                        <h2 class="text-white mrb-10">Our Easy Working Steps</h2>
-                        <div class="big-text">Working</div>
-                    </div>
-                </div>
-                <div class="col"></div>
-            </div>
-        </div>
-    </div>
-    <div class="section-content">
-        <div class="container">
-            <div class="working-process-wrapper">
-                <div class="working-process-shape">
-                    <img src="images/bg/working-process-shape.png" alt="" />
-                </div>
-                <div class="row">
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="process-item mrb-md-40">
-                            <div class="process-icon-box">
-                                <div class="process-icon">
-                                    <span class="webexflaticon webextheme-icon-office-1"></span>
-                                </div>
-                                <div class="process-count"></div>
-                            </div>
-                            <div class="process-details">
-                                <h4 class="process-title">Visit Project</h4>
-                                <p class="process-text">
-                                    Lorem ipsum dolor sit amet consect adicing aliquam
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="process-item mrb-md-40">
-                            <div class="process-icon-box">
-                                <div class="process-icon">
-                                    <span class="webexflaticon webextheme-icon-architect-1"></span>
-                                </div>
-                                <div class="process-count"></div>
-                            </div>
-                            <div class="process-details">
-                                <h4 class="process-title">Planning Design</h4>
-                                <p class="process-text">
-                                    Lorem ipsum dolor sit amet consect adicing aliquam
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="process-item mrb-md-40">
-                            <div class="process-icon-box">
-                                <div class="process-icon">
-                                    <span class="webexflaticon webextheme-icon-measure"></span>
-                                </div>
-                                <div class="process-count"></div>
-                            </div>
-                            <div class="process-details">
-                                <h4 class="process-title">Project Sketch</h4>
-                                <p class="process-text">
-                                    Lorem ipsum dolor sit amet consect adicing aliquam
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="process-item mrb-md-40 mrb-sm-0">
-                            <div class="process-icon-box">
-                                <div class="process-icon">
-                                    <span class="webexflaticon webextheme-icon-interior"></span>
-                                </div>
-                                <div class="process-count"></div>
-                            </div>
-                            <div class="process-details">
-                                <h4 class="process-title">Start Working</h4>
-                                <p class="process-text">
-                                    Lorem ipsum dolor sit amet consect adicing aliquam
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Working Steps Section End -->
-<!-- Team Section Start -->
-<section class="team-section pdt-105 pdb-80">
-    <div class="section-title mrb-55 mrb-lg-60 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-        <div class="container">
-            <div class="row align-items-end">
-                <div class="col-xl-6 col-lg-6 col-md-12">
-                    <div class="title-box-center">
-                        <h5 class="side-line-left text-primary-color mrb-10">
-                            Meet Our Team
-                        </h5>
-                        <h2 class="mrb-0 mrb-md-40">
-                            Let's See Our<span class="text-primary-color"> Expert</span>
-                            Engineers
-                        </h2>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-12 text-lg-end">
-                    <a href="page-team-style-01.html" class="animate-btn-style2">All Members</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="section-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-lg-6 col-xl-3">
-                    <div class="team-block-style1 mrb-30">
-                        <div class="team-upper-part">
-                            <img class="img-full" src="images/team/team02.jpg" alt="" />
-                            <ul class="social-list vertical-style list-sm">
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-google-plus"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="team-bottom-part">
-                            <h4 class="team-title mrb-5">
-                                <a href="page-team-details.html">Jacob Martin</a>
-                            </h4>
-                            <h6 class="designation">Web Developer</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-3">
-                    <div class="team-block-style1 mrb-30">
-                        <div class="team-upper-part">
-                            <img class="img-full" src="images/team/team01.jpg" alt="" />
-                            <ul class="social-list vertical-style list-sm">
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-google-plus"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="team-bottom-part">
-                            <h4 class="team-title mrb-5">
-                                <a href="page-team-details.html">Alica Bendor</a>
-                            </h4>
-                            <h6 class="designation">Interior Designer</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-3">
-                    <div class="team-block-style1 mrb-30">
-                        <div class="team-upper-part">
-                            <img class="img-full" src="images/team/team07.jpg" alt="" />
-                            <ul class="social-list vertical-style list-sm">
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-google-plus"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="team-bottom-part">
-                            <h4 class="team-title mrb-5">
-                                <a href="page-team-details.html">Sebastian Turner</a>
-                            </h4>
-                            <h6 class="designation">Web Developer</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-3">
-                    <div class="team-block-style1 mrb-30">
-                        <div class="team-upper-part">
-                            <img class="img-full" src="images/team/team04.jpg" alt="" />
-                            <ul class="social-list vertical-style list-sm">
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-google-plus"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="team-bottom-part">
-                            <h4 class="team-title mrb-5">
-                                <a href="page-team-details.html">Robert Tylor</a>
-                            </h4>
-                            <h6 class="designation">Web Developer</h6>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Team Section End -->
-<!-- Testimonials Section Start -->
-<section class="testimonial-section bg-silver pdt-105 pdb-110 pdb-lg-70 bg-no-repeat bg-cover bg-pos-ct"
-    data-background="images/bg/abs-bg5.png">
-    <div class="testimonial-section-obj1">
-        <img src="images/objects/testimonial-obj1.png" alt="" />
-    </div>
-    <div class="section-title mrb-55 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-        <div class="container">
-            <div class="row align-items-end">
-                <div class="col-xl-4 col-lg-4 col-md-12"></div>
-                <div class="col-xl-8 col-lg-8 col-md-12">
-                    <div class="title-box-center">
-                        <h5 class="side-line-left text-primary-color mrb-10">
-                            Testimonials
-                        </h5>
-                        <h2 class="mrb-35">
-                            What Our <span class="text-primary-color">Client's</span> Say?
-                        </h2>
-                        <p class="mrb-0">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing nesciunt,
-                            aliquam alias sunt. Dolores aliquid unde reprehenderit omnis
-                            vitae cupiditate distinctio?
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="section-content">
-        <div class="container">
-            <div class="row">
-                <div class="owl-carousel testmonial_2col testimonial-style1 mrb-lg-40">
-                    <div class="testimonial-item">
-                        <div class="testimonial-thumb">
-                            <img src="images/testimonials/testimonial-img1.jpg" alt="" />
-                        </div>
-                        <div class="testimonial-content">
-                            <p class="comments">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit
-                                oluptatibus blanditiis amet optio fugiat nisi est
-                                repellendus iusto quis harum laboriosam nostrum unde
-                                distinctio
-                            </p>
-                            <h4 class="client-name">Aurther Maxwell</h4>
-                            <h6 class="client-designation">CEO, Apple Inc.</h6>
-                        </div>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="testimonial-thumb">
-                            <img src="images/testimonials/testimonial-img3.jpg" alt="" />
-                        </div>
-                        <div class="testimonial-content">
-                            <p class="comments">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit
-                                oluptatibus blanditiis amet optio fugiat nisi est
-                                repellendus iusto quis harum laboriosam nostrum unde
-                                distinctio
-                            </p>
-                            <h4 class="client-name">Aurther Maxwell</h4>
-                            <h6 class="client-designation">CEO, Apple Inc.</h6>
-                        </div>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="testimonial-thumb">
-                            <img src="images/testimonials/testimonial-img2.jpg" alt="" />
-                        </div>
-                        <div class="testimonial-content">
-                            <p class="comments">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit
-                                oluptatibus blanditiis amet optio fugiat nisi est
-                                repellendus iusto quis harum laboriosam nostrum unde
-                                distinctio
-                            </p>
-                            <h4 class="client-name">Aurther Maxwell</h4>
-                            <h6 class="client-designation">CEO, Apple Inc.</h6>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Testimonials Section End -->
-<!-- Project Section Start -->
-<section class="bg-secondary-color bg-no-repeat bg-cover bg-pos-cb pdt-105" data-background="images/bg/abs-bg3.png"
-    data-overlay-dark="4">
-    <div class="section-title mrb-60 mrb-md-15 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-        <div class="container">
-            <div class="row align-items-end">
-                <div class="col-xl-8 col-lg-7 col-md-12">
-                    <div class="title-box-center">
-                        <h5 class="side-line-left text-primary-color mrb-10">
-                            Our Projects
-                        </h5>
-                        <h2 class="text-white mrb-md-40 mrb-sm-30">
-                            Our Outstanding <br />
-                            <span class="text-primary-color">Latest Proejcts</span> &
-                            Works
-                        </h2>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-5 col-md-12 text-lg-end">
-                    <p class="text-white mrb-0 mrb-md-40">
-                        Lorem ipsum dolor sit amet consectetur adipiscing augue curae
-                        duis pellentesque proin, quam faucibus accumsan feugiat donec
-                        aliquet
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="section-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="project-item-style1-wrapper mrr--300">
-                        <div class="owl-carousel projects_5col">
-                            <div class="project-item-style1">
-                                <div class="project-item-thumb">
-                                    <img class="img-full" src="images/projects/project_01.jpg" alt="" />
-                                    <div class="project-item-link-icon">
-                                        <a href="page-project-details.html"><i class="base-icon-next"></i></a>
-                                    </div>
-                                    <div class="project-item-details">
-                                        <h6 class="project-item-category">Interior</h6>
-                                        <h4 class="project-item-title">
-                                            <a href="page-single-project-item.html">Interior work</a>
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="project-item-style1">
-                                <div class="project-item-thumb">
-                                    <img class="img-full" src="images/projects/project_02.jpg" alt="" />
-                                    <div class="project-item-link-icon">
-                                        <a href="page-project-details.html"><i class="base-icon-next"></i></a>
-                                    </div>
-                                    <div class="project-item-details">
-                                        <h6 class="project-item-category">Modern</h6>
-                                        <h4 class="project-item-title">
-                                            <a href="page-project-details.html">Architecture</a>
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="project-item-style1">
-                                <div class="project-item-thumb">
-                                    <img class="img-full" src="images/projects/project_03.jpg" alt="" />
-                                    <div class="project-item-link-icon">
-                                        <a href="page-project-details.html"><i class="base-icon-next"></i></a>
-                                    </div>
-                                    <div class="project-item-details">
-                                        <h6 class="project-item-category">Decor</h6>
-                                        <h4 class="project-item-title">
-                                            <a href="page-single-project-item.html">Decoration Art</a>
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="project-item-style1">
-                                <div class="project-item-thumb">
-                                    <img class="img-full" src="images/projects/project_04.jpg" alt="" />
-                                    <div class="project-item-link-icon">
-                                        <a href="page-project-details.html"><i class="base-icon-next"></i></a>
-                                    </div>
-                                    <div class="project-item-details">
-                                        <h6 class="project-item-category">Design</h6>
-                                        <h4 class="project-item-title">
-                                            <a href="page-single-project-item.html">Modern Kitchen</a>
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="project-item-style1">
-                                <div class="project-item-thumb">
-                                    <img class="img-full" src="images/projects/project_05.jpg" alt="" />
-                                    <div class="project-item-link-icon">
-                                        <a href="page-project-details.html"><i class="base-icon-next"></i></a>
-                                    </div>
-                                    <div class="project-item-details">
-                                        <h6 class="project-item-category">Modern</h6>
-                                        <h4 class="project-item-title">
-                                            <a href="page-project-details.html">Architecture</a>
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="project-item-style1">
-                                <div class="project-item-thumb">
-                                    <img class="img-full" src="images/projects/project_06.jpg" alt="" />
-                                    <div class="project-item-link-icon">
-                                        <a href="page-project-details.html"><i class="base-icon-next"></i></a>
-                                    </div>
-                                    <div class="project-item-details">
-                                        <h6 class="project-item-category">Modern</h6>
-                                        <h4 class="project-item-title">
-                                            <a href="page-project-details.html">Architecture</a>
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Project Section End -->
-<!-- Funfact Section Start -->
-<section class="funfact-section pdt-50 pdb-25 pdt-sm-80 pdb-sm-65">
-    <div class="funfact-section-obj1">
-        <img src="images/objects/funfact-obj1.png" alt="" />
-    </div>
-    <div class="funfact-section-obj2">
-        <img src="images/objects/funfact-obj2.png" alt="" />
-    </div>
-    <div class="funfact-section-obj3">
-        <img src="images/objects/funfact-obj3.png" alt="" />
-    </div>
-    <div class="section-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="800ms">
-                    <div class="funfact">
-                        <div class="funfact-icon">
-                            <span class="webexflaticon base-icon-162-briefcase-2"></span>
-                        </div>
-                        <h2 class="count-box">
-                            <span data-stop="864" data-speed="2500" class="count-text">00</span>
-                        </h2>
-                        <h5 class="title">Projects Succeed</h5>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="800ms">
-                    <div class="funfact">
-                        <div class="funfact-icon">
-                            <span class="webexflaticon base-icon-101-like-1"></span>
-                        </div>
-                        <h2 class="count-box">
-                            <span data-stop="3450" data-speed="2500" class="count-text">00</span>
-                        </h2>
-                        <h5 class="title">Satisfied Clients</h5>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="800ms">
-                    <div class="funfact">
-                        <div class="funfact-icon">
-                            <span class="webexflaticon webextheme-icon-architect-4"></span>
-                        </div>
-                        <h2 class="count-box">
-                            <span data-stop="84" data-speed="2500" class="count-text">00</span>
-                        </h2>
-                        <h5 class="title">Professional Engineers</h5>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="800ms">
-                    <div class="funfact">
-                        <div class="funfact-icon">
-                            <span class="webexflaticon base-icon-037-creativity"></span>
-                        </div>
-                        <h2 class="count-box">
-                            <span data-stop="14" data-speed="2500" class="count-text">00</span>
-                        </h2>
-                        <h5 class="title">Year Of Experience</h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Funfact Section End -->
-<!-- Why Choose Us Section Start -->
-<section class="why-choose-us-style1-section bg-silver-light pdt-110 pdb-110 bg-no-repeat bg-cover bg-pos-cb"
-    data-background="images/bg/abs-bg1.png" data-overlay-light="3">
+<!--End About Style1 Area-->
+
+<!--Start Featured Style1 Area-->
+<section class="featured-style1-area">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 col-lg-8 col-xl-6 wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <div class="about-image-box-style3 dot-circle mrb-lg-60">
-                    <img class="about-image1 img-full js-tilt d-none d-md-block d-lg-block d-xl-block"
-                        src="images/about/about-sm2.jpg" alt="" />
-                    <img class="about-image2 img-full" src="images/about/about-lg2.jpg" alt="" />
-                    <img class="about-badge1 img-full js-tilt" src="images/about/certificate2.png" alt="" />
+            <!-- Start Single-Featurd-Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-featured-style1 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <img src="assets/images/resources/featured-1.jpg" alt="">
+                        <div class="title">
+                            <h3><a href="#">Best Quality<br> Standards</a></h3>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-12 col-lg-10 col-xl-6 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <h5 class="side-line-left text-primary-color mrb-10">
-                    Why Choose Us
-                </h5>
-                <h2 class="mrb-35 mrb-lg-40">
-                    We Provide Unique Creative<span class="text-primary-color stylish-font1">
-                        Interior</span>
-                    Design
-                </h2>
-                <p class="mrb-40">
-                    Distinctively exploit optimal alignments for revolutionary
-                    catalysts a dictumst mollis montes maecenas at sapien condimentum
-                    orci ornare
-                </p>
-                <div class="row">
-                    <div class="col-xl-6 col-lg-7 col-md-12">
-                        <ul class="order-list primary-color mrb-35">
-                            <li>business applications through</li>
-                            <li>catalysts for chang the Seamlessly</li>
-                            <li>procedures whereas processes</li>
-                        </ul>
-                        <div class="skills2 white-bg mrb-md-45">
-                            <div class="skill-item">
-                                <div class="skill-header">
-                                    <h6 class="skill-title">Interior</h6>
-                                    <div class="skill-percentage">
-                                        <div class="count-box">
-                                            <span class="count-text" data-speed="2100" data-stop="85">0</span>%
+            <!--End Single-Featurd-Style1-->
+            <!-- Start Single-Featurd-Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-featured-style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <img src="assets/images/resources/featured-2.jpg" alt="">
+                        <div class="title">
+                            <h3><a href="#">Smart & Unique<br>Wall Work</a></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End Single-Featurd-Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="free-estimate-box text-center"
+                    style="background-image: url(assets/images/resources/free-estimate-box-bg.jpg)">
+                    <div class="icon-box"><span class="flaticon-alarm-clock"></span></div>
+                    <h2>Timings</h2>
+                    <ul>
+                        <li>
+                            <p>Mon</p>
+                            <h3>9:00am - 6:00pm</h3>
+                        </li>
+                        <li>
+                            <p>Fri to Sat</p>
+                            <h3>10:00am - 4:00pm</h3>
+                        </li>
+                        <li>
+                            <p>Sun</p>
+                            <h3>Work Holiday</h3>
+                        </li>
+                    </ul>
+                    <div class="buttom-box">
+                        <a class="btn-one" href="#"><span class="txt">Get a Free Estimate</span></a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!--End Featured Style1 Area-->
+
+<!--Start Interior Design Area-->
+<section class="interior-design-area"
+    style="background-image: url(assets/images/parallax-background/interior-design-area-bg.jpg)">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-7">
+                <div class="interior-design-content-box">
+                    <div class="sec-title">
+                        <div class="sub-title">
+                            <h3>Best Interior Design</h3>
+                        </div>
+                        <h2>Quality Work That Meets<br> Your Expectations</h2>
+                    </div>
+                    <div class="interior-design-tab tabs-box">
+
+                        <div class="tab-button-column clearfix">
+                            <ul class="tab-buttons clearfix">
+                                <li data-tab="#material" class="tab-btn active-btn">Quality Material</li>
+                                <li data-tab="#team" class="tab-btn">Expert Team</li>
+                                <li data-tab="#work" class="tab-btn">Smart Work</li>
+                            </ul>
+                        </div>
+
+                        <div class="tabs-content">
+                            <!--Tab-->
+                            <div class="tab active-tab" id="material">
+                                <div class="material-tab-content">
+                                    <div class="row">
+                                        <div class="col-xl-4">
+                                            <div class="img-box">
+                                                <img src="assets/images/resources/material-1.png" alt="">
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                                <div class="skill-bar">
-                                    <div class="bar-inner">
-                                        <div class="bar progress-line" data-width="85"></div>
+                                        <div class="col-xl-8">
+                                            <div class="text-box">
+                                                <p>There are many variations of passages of available but the majority
+                                                    have suffered alteration in some form, or randomised words which don
+                                                    look even slightly believable.</p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="skill-item">
-                                <div class="skill-header">
-                                    <h6 class="skill-title">Architecture</h6>
-                                    <div class="skill-percentage">
-                                        <div class="count-box">
-                                            <span class="count-text" data-speed="2000" data-stop="96">0</span>%
+                            <!--Tab-->
+                            <div class="tab" id="team">
+                                <div class="team-tab-content">
+                                    <div class="row">
+                                        <!--Start Single Team Member-->
+                                        <div class="col-xl-6 col-lg-6 col-md-6">
+                                            <div class="single-team-member text-center">
+                                                <div class="img-holder">
+                                                    <div class="inner">
+                                                        <img src="assets/images/team/team-v2-1.jpg" alt="Awesome Image">
+                                                        <div class="overlay-social-content">
+                                                            <div class="team-social-link">
+                                                                <ul>
+                                                                    <li>
+                                                                        <a class="fb" href="#"><i class="fa fa-facebook"
+                                                                                aria-hidden="true"></i></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="tw" href="#"><i class="fa fa-twitter"
+                                                                                aria-hidden="true"></i></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="linkedin" href="#"><i
+                                                                                class="fa fa-linkedin"
+                                                                                aria-hidden="true"></i></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="pint" href="#"><i
+                                                                                class="fa fa-pinterest"
+                                                                                aria-hidden="true"></i></a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="title-holder">
+                                                    <h3><a href="#">Jessica Brown</a></h3>
+                                                    <span>Designer</span>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                                <div class="skill-bar">
-                                    <div class="bar-inner">
-                                        <div class="bar progress-line" data-width="96"></div>
+                                        <!--End Single Team Member-->
+                                        <!--Start Single Team Member-->
+                                        <div class="col-xl-6 col-lg-6 col-md-6">
+                                            <div class="single-team-member text-center">
+                                                <div class="img-holder">
+                                                    <div class="inner">
+                                                        <img src="assets/images/team/team-v2-2.jpg" alt="Awesome Image">
+                                                        <div class="overlay-social-content">
+                                                            <div class="team-social-link">
+                                                                <ul>
+                                                                    <li>
+                                                                        <a class="fb" href="#"><i class="fa fa-facebook"
+                                                                                aria-hidden="true"></i></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="tw" href="#"><i class="fa fa-twitter"
+                                                                                aria-hidden="true"></i></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="linkedin" href="#"><i
+                                                                                class="fa fa-linkedin"
+                                                                                aria-hidden="true"></i></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="pint" href="#"><i
+                                                                                class="fa fa-pinterest"
+                                                                                aria-hidden="true"></i></a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="title-holder">
+                                                    <h3><a href="#">Mike Hardson</a></h3>
+                                                    <span>Designer</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--End Single Team Member-->
                                     </div>
                                 </div>
                             </div>
-                            <div class="skill-item">
-                                <div class="skill-header">
-                                    <h6 class="skill-title">Decoration</h6>
-                                    <div class="skill-percentage">
-                                        <div class="count-box">
-                                            <span class="count-text" data-speed="2100" data-stop="75">0</span>%
+                            <!--Tab-->
+                            <div class="tab" id="work">
+                                <div class="work-tab-content">
+                                    <div class="row">
+                                        <!--Start Single Project Style1-->
+                                        <div class="col-xl-6 col-lg-6 col-md-6">
+                                            <div class="single-project-style1">
+                                                <div class="img-holder">
+                                                    <img src="assets/images/project/project-v3-1.jpg"
+                                                        alt="Awesome Image">
+                                                    <div class="overlay-content">
+                                                        <div class="inner">
+                                                            <h3><a href="#">Washroom<br> Wall Design</a></h3>
+                                                            <div class="readmore-button">
+                                                                <a href="#"><span class="flaticon-up-arrow"></span></a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
+                                        <!--End Single Project Style1-->
+                                        <!--Start Single Project Style1-->
+                                        <div class="col-xl-6 col-lg-6 col-md-6">
+                                            <div class="single-project-style1">
+                                                <div class="img-holder">
+                                                    <img src="assets/images/project/project-v3-2.jpg"
+                                                        alt="Awesome Image">
+                                                    <div class="overlay-content">
+                                                        <div class="inner">
+                                                            <h3><a href="#">Washroom<br> Wall Design</a></h3>
+                                                            <div class="readmore-button">
+                                                                <a href="#"><span class="flaticon-up-arrow"></span></a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--End Single Project Style1-->
+
                                     </div>
                                 </div>
-                                <div class="skill-bar">
-                                    <div class="bar-inner">
-                                        <div class="bar progress-line" data-width="85"></div>
-                                    </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-5">
+                <div class="interior-design-right-content">
+                    <ul>
+                        <li>
+                            <div class="design-single-block">
+                                <div class="icon thm-clr">
+                                    <span class="flaticon-wallpaper-1"></span>
+                                </div>
+                                <div class="text">
+                                    <h3>Innovative Wall Designs</h3>
+                                    <p>There are many variations of passages of available but the majority have simply
+                                        free text suffered.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="design-single-block">
+                                <div class="icon thm-clr">
+                                    <span class="flaticon-wallpaper-2"></span>
+                                </div>
+                                <div class="text">
+                                    <h3>High Quality Wall Matterial</h3>
+                                    <p>There are many variations of passages of available but the majority have simply
+                                        free text suffered.</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!--End Interior Design Area-->
+
+<!--Start Project Style1 Area-->
+<section class="project-style1-area">
+    <div class="recent-project-title thm-bgclr text-center paroller-2">
+        <h2>Our Recent Projects</h2>
+    </div>
+    <div class="auto-container-box">
+        <ul class="project-style1-content">
+            <li>
+                <!--Start Single Project Style1-->
+                <div class="single-project-style1 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <img src="assets/images/project/project-v1-1.jpg" alt="Awesome Image">
+                        <div class="overlay-content">
+                            <div class="inner">
+                                <h3><a href="#">Washroom<br> Wall Design</a></h3>
+                                <div class="readmore-button">
+                                    <a href="#"><span class="flaticon-up-arrow"></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-5 col-md-12">
-                        <div class="image-video-block">
-                            <img class="img-full" src="images/bg/video-bg1.jpg" alt="" />
-                            <div class="video-link">
-                                <a class="video-popup" href="https://www.youtube.com/watch?v=aXj3XhXN6v4"><i
-                                        class="base-icon-play1"></i></a>
+                </div>
+                <!--End Single Project Style1-->
+            </li>
+            <li>
+                <!--Start Single Project Style1-->
+                <div class="single-project-style1 wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <img src="assets/images/project/project-v1-2.jpg" alt="Awesome Image">
+                        <div class="overlay-content">
+                            <div class="inner">
+                                <h3><a href="#">Washroom<br> Wall Design</a></h3>
+                                <div class="readmore-button">
+                                    <a href="#"><span class="flaticon-up-arrow"></span></a>
+                                </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+                <!--End Single Project Style1-->
+            </li>
+            <li>
+                <!--Start Single Project Style1-->
+                <div class="single-project-style1 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <img src="assets/images/project/project-v1-3.jpg" alt="Awesome Image">
+                        <div class="overlay-content">
+                            <div class="inner">
+                                <h3><a href="#">Washroom<br> Wall Design</a></h3>
+                                <div class="readmore-button">
+                                    <a href="#"><span class="flaticon-up-arrow"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End Single Project Style1-->
+            </li>
+            <li>
+                <!--Start Single Project Style1-->
+                <div class="single-project-style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <img src="assets/images/project/project-v1-4.jpg" alt="Awesome Image">
+                        <div class="overlay-content">
+                            <div class="inner">
+                                <h3><a href="#">Washroom<br> Wall Design</a></h3>
+                                <div class="readmore-button">
+                                    <a href="#"><span class="flaticon-up-arrow"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End Single Project Style1-->
+            </li>
+            <li>
+                <!--Start Single Project Style1-->
+                <div class="single-project-style1 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <img src="assets/images/project/project-v1-5.jpg" alt="Awesome Image">
+                        <div class="overlay-content">
+                            <div class="inner">
+                                <h3><a href="#">Washroom<br> Wall Design</a></h3>
+                                <div class="readmore-button">
+                                    <a href="#"><span class="flaticon-up-arrow"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End Single Project Style1-->
+            </li>
+        </ul>
+    </div>
+</section>
+<!--End Project Style1 Area-->
+
+<!-- Start Service Style1 Area -->
+<section class="service-style1-area">
+    <div class="top-gray-bg wow slideInDown" data-wow-delay="100ms" data-wow-duration="2500ms"></div>
+    <div class="container">
+        <div class="sec-title text-center">
+            <div class="sub-title">
+                <h3>Our Services List</h3>
+            </div>
+            <h2>Services We’re Providing</h2>
+        </div>
+        <div class="row">
+            <!--Start Single Service Style1-->
+            <div class="col-xl-4 col-lg-4 col-md-12 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                <div class="single-service-style1 text-center">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img src="assets/images/services/service-v1-1.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="text-holder">
+                        <div class="inner-text">
+                            <h3><a href="#">Room Wallpapers</a></h3>
+                            <p>There are not many of passages of lorem ipsum avail alteration in some form.</p>
+                            <div class="readmore-button">
+                                <a href="#"><span class="flaticon-up-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End Single Service Style1-->
+            <!--Start Single Service Style1-->
+            <div class="col-xl-4 col-lg-4 col-md-12 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+                <div class="single-service-style1 text-center">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img src="assets/images/services/service-v1-2.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="text-holder">
+                        <div class="inner-text">
+                            <h3><a href="#">Wall Painting</a></h3>
+                            <p>There are not many of passages of lorem ipsum avail alteration in some form.</p>
+                            <div class="readmore-button">
+                                <a href="#"><span class="flaticon-up-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End Single Service Style1-->
+            <!--Start Single Service Style1-->
+            <div class="col-xl-4 col-lg-4 col-md-12 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
+                <div class="single-service-style1 text-center">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img src="assets/images/services/service-v1-3.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="text-holder">
+                        <div class="inner-text">
+                            <h3><a href="#">Wall Sheets</a></h3>
+                            <p>There are not many of passages of lorem ipsum avail alteration in some form.</p>
+                            <div class="readmore-button">
+                                <a href="#"><span class="flaticon-up-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End Single Service Style1-->
+        </div>
+    </div>
+</section>
+<!-- End Service Style1 Area -->
+
+<!--Start Booking Area-->
+<section class="booking-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-5 col-lg-4">
+                <div class="booking-number-box">
+                    <div class="icon thm-clr">
+                        <span class="flaticon-time-management"></span>
+                    </div>
+                    <div class="title">
+                        <p>Book Your Schedule</p>
+                        <h2><a href="tel:123456789">666 888 0000</a></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-7 col-lg-8">
+                <div class="booking-content-box">
+                    <div class="text">
+                        <p>Lorem ipsum dolor sit amet nsectetur cing ndisse suscipit sagitis leo sit.</p>
+                    </div>
+                    <div class="buttom-box">
+                        <a class="btn-one" href="#"><span class="txt">Get a Free Estimate</span></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- Why Choose Us Section End -->
-<!-- News Section Start -->
-<section class="bg-no-repeat bg-cover bg-pos-ct pdt-105" data-background="images/bg/abs-bg8.png">
-    <div class="section-title mrb-55 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-8 col-md-12">
-                    <div class="title-box-center">
-                        <h5 class="side-line-left text-primary-color mrb-10">
-                            Latest Blog
-                        </h5>
-                        <h2 class="mrb-25">
-                            News & <span class="text-primary-color">Updates </span>
-                        </h2>
-                        <p class="mrb-0 mrb-md-40">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing nesciunt,
-                            aliquam alias sunt. Dolores aliquid unde reprehenderit omnis
-                            vitae cupiditate distinctio?
-                        </p>
+<!--End Booking Area-->
+
+<!--Start Testimonial style1 Area -->
+<section class="testimonial-style1-area">
+    <div class="layer-outer" style="background-image: url(assets/images/pattern/testimonial-style1-pattern.png)"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-12">
+                <div class="testimonial-style1-content">
+                    <div class="sec-title">
+                        <div class="sub-title">
+                            <h3>Client Testimonials</h3>
+                        </div>
+                        <h2>What They’re Saying<br> About Our Work</h2>
                     </div>
-                </div>
-                <div class="col-xl-6 col-lg-4 col-md-12 text-lg-end">
-                    <a href="page-news.html" class="animate-btn-style2">All News</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="section-content mrb-80">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-6 col-lg-6 col-xl-4">
-                    <div class="news-wrapper mrb-30">
-                        <div class="news-thumb">
-                            <img src="images/news/01.jpg" class="img-full" alt="blog" />
-                            <div class="news-top-meta">
-                                <span class="entry-category">Architecture</span>
-                            </div>
-                        </div>
-                        <div class="news-description">
-                            <h4 class="the-title">
-                                <a href="page-news-details.html">Distinctively revolutionary for chang the
-                                    Seamlessly</a>
-                            </h4>
-                            <p class="the-content">
-                                There are many variations of passages available but majority
-                                have suffered alteration
-                            </p>
-                            <div class="news-bottom-part">
-                                <div class="post-author">
-                                    <div class="author-img">
-                                        <a href="page-news.html">
-                                            <img src="images/testimonials/testimonial-img1.jpg" class="rounded-circle"
-                                                alt="#" />
-                                        </a>
+                    <div class="testimonial-carousel-rtl owl-carousel owl-theme">
+                        <!--Start Single Testimonial Style1-->
+                        <div class="single-testimonial-style1">
+                            <div class="text-holder">
+                                <div class="text-box">
+                                    <p>I have just had two of the most productive work weeks I have had in years. Ben
+                                        was perfectly matched to my temperament, and has been taking all the backlogged
+                                        work off my plate and finishing it. I'm really impressed.</p>
+                                </div>
+                                <div class="client-info">
+                                    <div class="image-box">
+                                        <img src="assets/images/testimonial/tes-v1-1.png" alt="">
                                     </div>
-                                    <span><a href="page-news.html">Admin</a></span>
-                                </div>
-                                <div class="post-link">
-                                    <span class="entry-date"><i
-                                            class="far fa-calendar-alt mrr-10 text-primary-color"></i>01 Jan,
-                                        2022</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-4">
-                    <div class="news-wrapper mrb-30">
-                        <div class="news-thumb">
-                            <img src="images/news/02.jpg" class="img-full" alt="blog" />
-                            <div class="news-top-meta">
-                                <span class="entry-category">Building</span>
-                            </div>
-                        </div>
-                        <div class="news-description">
-                            <h4 class="the-title">
-                                <a href="page-news-details.html">Distinctively revolutionary for chang the
-                                    Seamlessly</a>
-                            </h4>
-                            <p class="the-content">
-                                There are many variations of passages available but majority
-                                have suffered alteration
-                            </p>
-                            <div class="news-bottom-part">
-                                <div class="post-author">
-                                    <div class="author-img">
-                                        <a href="page-news.html">
-                                            <img src="images/testimonials/testimonial-img2.jpg" class="rounded-circle"
-                                                alt="#" />
-                                        </a>
+                                    <div class="title-box">
+                                        <h3>Jessica Brown</h3>
+                                        <span>Co-Founder</span>
                                     </div>
-                                    <span><a href="page-news.html">Admin</a></span>
                                 </div>
-                                <div class="post-link">
-                                    <span class="entry-date"><i
-                                            class="far fa-calendar-alt mrr-10 text-primary-color"></i>01 Jan,
-                                        2022</span>
-                                </div>
+
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-4">
-                    <div class="news-wrapper mrb-30">
-                        <div class="news-thumb">
-                            <img src="images/news/03.jpg" class="img-full" alt="blog" />
-                            <div class="news-top-meta">
-                                <span class="entry-category">Interior</span>
-                            </div>
-                        </div>
-                        <div class="news-description">
-                            <h4 class="the-title">
-                                <a href="page-news-details.html">Distinctively revolutionary for chang the
-                                    Seamlessly</a>
-                            </h4>
-                            <p class="the-content">
-                                There are many variations of passages available but majority
-                                have suffered alteration
-                            </p>
-                            <div class="news-bottom-part">
-                                <div class="post-author">
-                                    <div class="author-img">
-                                        <a href="page-news.html">
-                                            <img src="images/testimonials/testimonial-img3.jpg" class="rounded-circle"
-                                                alt="#" />
-                                        </a>
+                        <!--End Single Testimonial Style1-->
+                        <!--Start Single Testimonial Style1-->
+                        <div class="single-testimonial-style1">
+                            <div class="text-holder">
+                                <div class="text-box">
+                                    <p>I have just had two of the most productive work weeks I have had in years. Ben
+                                        was perfectly matched to my temperament, and has been taking all the backlogged
+                                        work off my plate and finishing it. I'm really impressed.</p>
+                                </div>
+                                <div class="client-info">
+                                    <div class="image-box">
+                                        <img src="assets/images/testimonial/tes-v1-1.png" alt="">
                                     </div>
-                                    <span><a href="page-news.html">Admin</a></span>
+                                    <div class="title-box">
+                                        <h3>Jessica Brown</h3>
+                                        <span>Co-Founder</span>
+                                    </div>
                                 </div>
-                                <div class="post-link">
-                                    <span class="entry-date"><i
-                                            class="far fa-calendar-alt mrr-10 text-primary-color"></i>01 Jan,
-                                        2022</span>
-                                </div>
+
                             </div>
                         </div>
+                        <!--End Single Testimonial Style1-->
+
+
                     </div>
                 </div>
             </div>
+
+            <div class="col-xl-6 col-lg-12">
+                <div class="testimonial-style2-image-box clearfix wow" data-wow-delay="300ms"
+                    data-wow-duration="1500ms">
+                    <div class="bg-box thm-bgclr"></div>
+                    <img src="assets/images/resources/tes-style2-image-box-bg.jpg" alt="">
+                    <div class="title-box">Customer Feedbacks</div>
+                </div>
+            </div>
+
         </div>
     </div>
-    <!-- Call to Action Start -->
-    <div class="call-to-action">
-        <div class="container">
-            <div class="call-to-action-inner">
-                <div class="call-to-action-left">
-                    <div class="call-to-action-icon">
-                        <span class="webexflaticon base-icon-chat1"></span>
+</section>
+<!--End Testimonial Style1 Area-->
+
+<!--Start Blog Style1 Area-->
+<section class="blog-style1-area">
+    <div class="container">
+        <div class="sec-title text-center">
+            <div class="sub-title">
+                <h3>News & Updates</h3>
+            </div>
+            <h2>Recent Blog Posts</h2>
+        </div>
+        <div class="row">
+            <!--Start Single blog Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-blog-style1 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img src="assets/images/blog/blog-v1-1.jpg" alt="Awesome Image">
+                            <div class="overlay-icon">
+                                <a href="#"><span class="flaticon-plus"></span></a>
+                            </div>
+                            <div class="date-box">
+                                <h5>Jul 18, 2020</h5>
+                            </div>
+                        </div>
                     </div>
-                    <div class="call-to-action-content">
-                        <p class="call-to-action-sub-title">We are ready to help you</p>
-                        <h3 class="call-to-action-title">
-                            Need Any Interior Design Help?
+                    <div class="text-holder">
+                        <ul class="meta-info">
+                            <li><span class="flaticon-user-1"></span><a href="#">Admin</a></li>
+                            <li><span class="flaticon-speech-bubble-comment"></span><a href="#">2 Comments</a></li>
+                        </ul>
+                        <h3 class="blog-title">
+                            <a href="blog-single.html">How to protect your damage walls</a>
                         </h3>
+                        <div class="text">
+                            <p>There are not many of passages of lorem ipsum available alteration in some form.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="call-to-action-btn-box mrt-md-30">
-                    <a href="page-contact-us.html" class="animate-btn-style4">Contact With Us</a>
+            </div>
+            <!--End Single blog Style1-->
+            <!--Start Single blog Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-blog-style1 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img src="assets/images/blog/blog-v1-2.jpg" alt="Awesome Image">
+                            <div class="overlay-icon">
+                                <a href="#"><span class="flaticon-plus"></span></a>
+                            </div>
+                            <div class="date-box">
+                                <h5>Jul 18, 2020</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-holder">
+                        <ul class="meta-info">
+                            <li><span class="flaticon-user-1"></span><a href="#">Admin</a></li>
+                            <li><span class="flaticon-speech-bubble-comment"></span><a href="#">2 Comments</a></li>
+                        </ul>
+                        <h3 class="blog-title">
+                            <a href="blog-single.html">Learn the right way to use wall sheet</a>
+                        </h3>
+                        <div class="text">
+                            <p>There are not many of passages of lorem ipsum available alteration in some form.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End Single blog Style1-->
+            <!--Start Single blog Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-blog-style1 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img src="assets/images/blog/blog-v1-3.jpg" alt="Awesome Image">
+                            <div class="overlay-icon">
+                                <a href="#"><span class="flaticon-plus"></span></a>
+                            </div>
+                            <div class="date-box">
+                                <h5>Jul 18, 2020</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-holder">
+                        <ul class="meta-info">
+                            <li><span class="flaticon-user-1"></span><a href="#">Admin</a></li>
+                            <li><span class="flaticon-speech-bubble-comment"></span><a href="#">2 Comments</a></li>
+                        </ul>
+                        <h3 class="blog-title">
+                            <a href="blog-single.html">Difference between wallpaper and sheets</a>
+                        </h3>
+                        <div class="text">
+                            <p>There are not many of passages of lorem ipsum available alteration in some form.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End Single blog Style1-->
+
+        </div>
+    </div>
+</section>
+<!--End Blog Style1 Area-->
+
+<!--Start Fact Counter Area-->
+<section class="fact-counter-area">
+    <div class="shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="3500ms">
+        <img class="float-bob-y" src="assets/images/shape/shape-4.png" alt="">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="fact-counter">
+                    <div class="fact-counter-pattern"
+                        style="background-image: url(assets/images/pattern/fact-counter-area-bg.png)"></div>
+                    <ul class="fact-counter-box clearfix">
+                        <!--Start Single Fact Counter-->
+                        <li class="single-fact-counter wow fadeInUp text-center" data-wow-delay="100ms"
+                            data-wow-duration="1500ms">
+                            <div class="count-box">
+                                <h2>
+                                    <span class="timer" data-from="1" data-to="8705" data-speed="5000"
+                                        data-refresh-interval="50">8705</span>
+                                    <span class="icon">
+                                        <i class="flaticon-plus"></i>
+                                    </span>
+                                </h2>
+                                <div class="sub-title">
+                                    <h5>Projects Completed</h5>
+                                </div>
+                            </div>
+                        </li>
+                        <!--End Single Fact Counter-->
+                        <!--Start Single Fact Counter-->
+                        <li class="single-fact-counter wow fadeInUp text-center" data-wow-delay="300ms"
+                            data-wow-duration="1500ms">
+                            <div class="count-box">
+                                <h2>
+                                    <span class="timer" data-from="1" data-to="487" data-speed="5000"
+                                        data-refresh-interval="50">487</span>
+                                    <span class="icon">
+                                        <i class="flaticon-plus"></i>
+                                    </span>
+                                </h2>
+                                <div class="sub-title">
+                                    <h5>Active Clients</h5>
+                                </div>
+                            </div>
+                        </li>
+                        <!--End Single Fact Counter-->
+                        <!--Start Single Fact Counter-->
+                        <li class="single-fact-counter wow fadeInUp text-center" data-wow-delay="500ms"
+                            data-wow-duration="1500ms">
+                            <div class="count-box">
+                                <h2>
+                                    <span class="timer" data-from="1" data-to="620" data-speed="5000"
+                                        data-refresh-interval="50">620</span>
+                                    <span class="icon">
+                                        <i class="flaticon-plus"></i>
+                                    </span>
+                                </h2>
+                                <div class="sub-title">
+                                    <h5>Cups of Coffee</h5>
+                                </div>
+                            </div>
+                        </li>
+                        <!--End Single Fact Counter-->
+                        <!--Start Single Fact Counter-->
+                        <li class="single-fact-counter wow fadeInUp text-center" data-wow-delay="700ms"
+                            data-wow-duration="1500ms">
+                            <div class="count-box">
+                                <h2>
+                                    <span class="timer" data-from="1" data-to="9704" data-speed="5000"
+                                        data-refresh-interval="50">9704</span>
+                                    <span class="icon">
+                                        <i class="flaticon-plus"></i>
+                                    </span>
+                                </h2>
+                                <div class="sub-title">
+                                    <h5>Happy Clients</h5>
+                                </div>
+                            </div>
+                        </li>
+                        <!--End Single Fact Counter-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!--End Fact Counter Area-->
+
+<!--Start Partner Area-->
+<section class="partner-area">
+    <div class="border-top"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="partner-box">
+                    <!--Start Single Partner Logo Box-->
+                    <div class="single-partner-logo-box">
+                        <a href="#"><img src="assets/images/brand/brand-1.png" alt="Awesome Image"></a>
+                    </div>
+                    <!--End Single Partner Logo Box-->
+                    <!--Start Single Partner Logo Box-->
+                    <div class="single-partner-logo-box">
+                        <a href="#"><img src="assets/images/brand/brand-2.png" alt="Awesome Image"></a>
+                    </div>
+                    <!--End Single Partner Logo Box-->
+                    <!--Start Single Partner Logo Box-->
+                    <div class="single-partner-logo-box">
+                        <a href="#"><img src="assets/images/brand/brand-3.png" alt="Awesome Image"></a>
+                    </div>
+                    <!--End Single Partner Logo Box-->
+                    <!--Start Single Partner Logo Box-->
+                    <div class="single-partner-logo-box">
+                        <a href="#"><img src="assets/images/brand/brand-4.png" alt="Awesome Image"></a>
+                    </div>
+                    <!--End Single Partner Logo Box-->
+                    <!--Start Single Partner Logo Box-->
+                    <div class="single-partner-logo-box">
+                        <a href="#"><img src="assets/images/brand/brand-5.png" alt="Awesome Image"></a>
+                    </div>
+                    <!--End Single Partner Logo Box-->
                 </div>
             </div>
         </div>
     </div>
-    <!-- Call to Action End -->
 </section>
-<!-- News Section End -->
+<!--End Partner Area-->
+
+<!--Start Discover Area-->
+<section class="discover-area" style="background-image: url(assets/images/parallax-background/discover-area-bg.jpg)">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-7">
+                <div class="discover-content-box">
+                    <h2>We Pay Attention to Every<br> Detail to Make your Room<br> Wall Stunning</h2>
+                    <div class="buttom-box">
+                        <a class="btn-one" href="#"><span class="txt">Discover More</span></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-5">
+                <div class="discover-image-box">
+                    <div class="image1" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">
+                        <img src="assets/images/resources/discover-1.jpg" alt="">
+                    </div>
+                    <div class="image2 paroller-2">
+                        <img src="assets/images/resources/discover-2.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Discover Area-->
