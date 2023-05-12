@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$title = 'Login';
+$title = 'Blog';
 $inicio = 'active';
 include('includes/head.php');
 ?>
@@ -9,7 +9,7 @@ include('includes/head.php');
 <body class="theme-indigo">
 
     <?php
-        include('includes/header.php');
+        include_once('includes/header.php');
     ?>
     <div class="main_content" id="main-content">
         <?
@@ -18,7 +18,7 @@ include('includes/head.php');
         ?>
     </div>
     <?
-        include('includes/scripts.php');
+        include_once('includes/scripts.php');
     ?>
 
 

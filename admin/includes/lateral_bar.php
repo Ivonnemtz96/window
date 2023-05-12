@@ -22,6 +22,9 @@
                 <li>
                     <a href="ui-elements.html"><i class="ti-vector"></i><span>UI Elements</span></a>
                 </li>
+                <li>
+                    <a href="/admin/nuevo/blog"><i class="ti-vector"></i><span>Nuevo blog</span></a>
+                </li>
                 <li class="g_heading">Application</li>
                 <li>
                     <a href="app-calendar.html"><i class="ti-calendar"></i><span>Calendar</span></a>
