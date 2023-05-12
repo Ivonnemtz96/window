@@ -5,7 +5,7 @@
         <div class="banner-carousel owl-theme owl-carousel">
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-1.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/assets/images/slides/slide-v1-1.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <h3>Welcome to Interior Wallapering & Painting</h3>
@@ -20,7 +20,7 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-2.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/assets/images/slides/slide-v1-2.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <h3>Welcome to Interior Wallapering & Painting</h3>
@@ -35,7 +35,7 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-3.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/assets/images/slides/slide-v1-3.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <h3>Welcome to Interior Wallapering & Painting</h3>
@@ -58,10 +58,10 @@
 <!--Start About Style1 Area-->
 <section class="about-style1-area">
     <div class="shape1 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
-        <img src="assets/images/shape/shape-1.png" alt="">
+        <img src="/assets/images/shape/shape-1.png" alt="">
     </div>
     <div class="shape2 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="3500ms">
-        <img src="assets/images/shape/shape-2.png" alt="">
+        <img src="/assets/images/shape/shape-2.png" alt="">
     </div>
     <div class="container">
         <div class="row">
@@ -99,10 +99,10 @@
             <div class="col-xl-6">
                 <div class="about-style1-image-box">
                     <div class="shape3">
-                        <img src="assets/images/shape/shape-3.png" alt="">
+                        <img src="/assets/images/shape/shape-3.png" alt="">
                     </div>
                     <div class="main-image">
-                        <img src="assets/images/about/about-1.png" alt="Awesome Image">
+                        <img src="/assets/images/about/about-1.png" alt="Awesome Image">
                         <div class="icon-box thm-bgclr paroller-2">
                             <span class="flaticon-wallpaper"></span>
                             <h3>Founded<br> in 1987</h3>
@@ -124,7 +124,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="single-featured-style1 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="assets/images/resources/featured-1.jpg" alt="">
+                        <img src="/assets/images/resources/featured-1.jpg" alt="">
                         <div class="title">
                             <h3><a href="#">Best Quality<br> Standards</a></h3>
                         </div>
@@ -136,7 +136,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="single-featured-style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="assets/images/resources/featured-2.jpg" alt="">
+                        <img src="/assets/images/resources/featured-2.jpg" alt="">
                         <div class="title">
                             <h3><a href="#">Smart & Unique<br>Wall Work</a></h3>
                         </div>
@@ -146,7 +146,7 @@
             <!--End Single-Featurd-Style1-->
             <div class="col-xl-4 col-lg-4">
                 <div class="free-estimate-box text-center"
-                    style="background-image: url(assets/images/resources/free-estimate-box-bg.jpg)">
+                    style="background-image: url(/assets/images/resources/free-estimate-box-bg.jpg)">
                     <div class="icon-box"><span class="flaticon-alarm-clock"></span></div>
                     <h2>Timings</h2>
                     <ul>
@@ -176,7 +176,7 @@
 
 <!--Start Interior Design Area-->
 <section class="interior-design-area"
-    style="background-image: url(assets/images/parallax-background/interior-design-area-bg.jpg)">
+    style="background-image: url(/assets/images/parallax-background/interior-design-area-bg.jpg)">
     <div class="container">
         <div class="row">
             <div class="col-xl-7">
@@ -204,7 +204,7 @@
                                     <div class="row">
                                         <div class="col-xl-4">
                                             <div class="img-box">
-                                                <img src="assets/images/resources/material-1.png" alt="">
+                                                <img src="/assets/images/resources/material-1.png" alt="">
                                             </div>
                                         </div>
                                         <div class="col-xl-8">
@@ -226,7 +226,7 @@
                                             <div class="single-team-member text-center">
                                                 <div class="img-holder">
                                                     <div class="inner">
-                                                        <img src="assets/images/team/team-v2-1.jpg" alt="Awesome Image">
+                                                        <img src="/assets/images/team/team-v2-1.jpg" alt="Awesome Image">
                                                         <div class="overlay-social-content">
                                                             <div class="team-social-link">
                                                                 <ul>
@@ -265,7 +265,7 @@
                                             <div class="single-team-member text-center">
                                                 <div class="img-holder">
                                                     <div class="inner">
-                                                        <img src="assets/images/team/team-v2-2.jpg" alt="Awesome Image">
+                                                        <img src="/assets/images/team/team-v2-2.jpg" alt="Awesome Image">
                                                         <div class="overlay-social-content">
                                                             <div class="team-social-link">
                                                                 <ul>
@@ -310,7 +310,7 @@
                                         <div class="col-xl-6 col-lg-6 col-md-6">
                                             <div class="single-project-style1">
                                                 <div class="img-holder">
-                                                    <img src="assets/images/project/project-v3-1.jpg"
+                                                    <img src="/assets/images/project/project-v3-1.jpg"
                                                         alt="Awesome Image">
                                                     <div class="overlay-content">
                                                         <div class="inner">
@@ -328,7 +328,7 @@
                                         <div class="col-xl-6 col-lg-6 col-md-6">
                                             <div class="single-project-style1">
                                                 <div class="img-holder">
-                                                    <img src="assets/images/project/project-v3-2.jpg"
+                                                    <img src="/assets/images/project/project-v3-2.jpg"
                                                         alt="Awesome Image">
                                                     <div class="overlay-content">
                                                         <div class="inner">
@@ -400,7 +400,7 @@
                 <!--Start Single Project Style1-->
                 <div class="single-project-style1 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="assets/images/project/project-v1-1.jpg" alt="Awesome Image">
+                        <img src="/assets/images/project/project-v1-1.jpg" alt="Awesome Image">
                         <div class="overlay-content">
                             <div class="inner">
                                 <h3><a href="#">Washroom<br> Wall Design</a></h3>
@@ -417,7 +417,7 @@
                 <!--Start Single Project Style1-->
                 <div class="single-project-style1 wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="assets/images/project/project-v1-2.jpg" alt="Awesome Image">
+                        <img src="/assets/images/project/project-v1-2.jpg" alt="Awesome Image">
                         <div class="overlay-content">
                             <div class="inner">
                                 <h3><a href="#">Washroom<br> Wall Design</a></h3>
@@ -434,7 +434,7 @@
                 <!--Start Single Project Style1-->
                 <div class="single-project-style1 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="assets/images/project/project-v1-3.jpg" alt="Awesome Image">
+                        <img src="/assets/images/project/project-v1-3.jpg" alt="Awesome Image">
                         <div class="overlay-content">
                             <div class="inner">
                                 <h3><a href="#">Washroom<br> Wall Design</a></h3>
@@ -451,7 +451,7 @@
                 <!--Start Single Project Style1-->
                 <div class="single-project-style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="assets/images/project/project-v1-4.jpg" alt="Awesome Image">
+                        <img src="/assets/images/project/project-v1-4.jpg" alt="Awesome Image">
                         <div class="overlay-content">
                             <div class="inner">
                                 <h3><a href="#">Washroom<br> Wall Design</a></h3>
@@ -468,7 +468,7 @@
                 <!--Start Single Project Style1-->
                 <div class="single-project-style1 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="assets/images/project/project-v1-5.jpg" alt="Awesome Image">
+                        <img src="/assets/images/project/project-v1-5.jpg" alt="Awesome Image">
                         <div class="overlay-content">
                             <div class="inner">
                                 <h3><a href="#">Washroom<br> Wall Design</a></h3>
@@ -502,7 +502,7 @@
                 <div class="single-service-style1 text-center">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="assets/images/services/service-v1-1.jpg" alt="">
+                            <img src="/assets/images/services/service-v1-1.jpg" alt="">
                         </div>
                     </div>
                     <div class="text-holder">
@@ -522,7 +522,7 @@
                 <div class="single-service-style1 text-center">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="assets/images/services/service-v1-2.jpg" alt="">
+                            <img src="/assets/images/services/service-v1-2.jpg" alt="">
                         </div>
                     </div>
                     <div class="text-holder">
@@ -542,7 +542,7 @@
                 <div class="single-service-style1 text-center">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="assets/images/services/service-v1-3.jpg" alt="">
+                            <img src="/assets/images/services/service-v1-3.jpg" alt="">
                         </div>
                     </div>
                     <div class="text-holder">
@@ -594,7 +594,7 @@
 
 <!--Start Testimonial style1 Area -->
 <section class="testimonial-style1-area">
-    <div class="layer-outer" style="background-image: url(assets/images/pattern/testimonial-style1-pattern.png)"></div>
+    <div class="layer-outer" style="background-image: url(/assets/images/pattern/testimonial-style1-pattern.png)"></div>
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-12">
@@ -616,7 +616,7 @@
                                 </div>
                                 <div class="client-info">
                                     <div class="image-box">
-                                        <img src="assets/images/testimonial/tes-v1-1.png" alt="">
+                                        <img src="/assets/images/testimonial/tes-v1-1.png" alt="">
                                     </div>
                                     <div class="title-box">
                                         <h3>Jessica Brown</h3>
@@ -637,7 +637,7 @@
                                 </div>
                                 <div class="client-info">
                                     <div class="image-box">
-                                        <img src="assets/images/testimonial/tes-v1-1.png" alt="">
+                                        <img src="/assets/images/testimonial/tes-v1-1.png" alt="">
                                     </div>
                                     <div class="title-box">
                                         <h3>Jessica Brown</h3>
@@ -658,7 +658,7 @@
                 <div class="testimonial-style2-image-box clearfix wow" data-wow-delay="300ms"
                     data-wow-duration="1500ms">
                     <div class="bg-box thm-bgclr"></div>
-                    <img src="assets/images/resources/tes-style2-image-box-bg.jpg" alt="">
+                    <img src="/assets/images/resources/tes-style2-image-box-bg.jpg" alt="">
                     <div class="title-box">Customer Feedbacks</div>
                 </div>
             </div>
@@ -683,7 +683,7 @@
                 <div class="single-blog-style1 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="assets/images/blog/blog-v1-1.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-1.jpg" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -712,7 +712,7 @@
                 <div class="single-blog-style1 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="assets/images/blog/blog-v1-2.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-2.jpg" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -741,7 +741,7 @@
                 <div class="single-blog-style1 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="assets/images/blog/blog-v1-3.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-3.jpg" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -774,14 +774,14 @@
 <!--Start Fact Counter Area-->
 <section class="fact-counter-area">
     <div class="shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="3500ms">
-        <img class="float-bob-y" src="assets/images/shape/shape-4.png" alt="">
+        <img class="float-bob-y" src="/assets/images/shape/shape-4.png" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
                 <div class="fact-counter">
                     <div class="fact-counter-pattern"
-                        style="background-image: url(assets/images/pattern/fact-counter-area-bg.png)"></div>
+                        style="background-image: url(/assets/images/pattern/fact-counter-area-bg.png)"></div>
                     <ul class="fact-counter-box clearfix">
                         <!--Start Single Fact Counter-->
                         <li class="single-fact-counter wow fadeInUp text-center" data-wow-delay="100ms"
@@ -869,27 +869,27 @@
                 <div class="partner-box">
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="assets/images/brand/brand-1.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/assets/images/brand/brand-1.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="assets/images/brand/brand-2.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/assets/images/brand/brand-2.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="assets/images/brand/brand-3.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/assets/images/brand/brand-3.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="assets/images/brand/brand-4.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/assets/images/brand/brand-4.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="assets/images/brand/brand-5.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/assets/images/brand/brand-5.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                 </div>
@@ -900,7 +900,7 @@
 <!--End Partner Area-->
 
 <!--Start Discover Area-->
-<section class="discover-area" style="background-image: url(assets/images/parallax-background/discover-area-bg.jpg)">
+<section class="discover-area" style="background-image: url(/assets/images/parallax-background/discover-area-bg.jpg)">
     <div class="container">
         <div class="row">
             <div class="col-xl-7">
@@ -914,10 +914,10 @@
             <div class="col-xl-5">
                 <div class="discover-image-box">
                     <div class="image1" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">
-                        <img src="assets/images/resources/discover-1.jpg" alt="">
+                        <img src="/assets/images/resources/discover-1.jpg" alt="">
                     </div>
                     <div class="image2 paroller-2">
-                        <img src="assets/images/resources/discover-2.jpg" alt="">
+                        <img src="/assets/images/resources/discover-2.jpg" alt="">
                     </div>
                 </div>
             </div>
