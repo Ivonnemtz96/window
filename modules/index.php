@@ -8,12 +8,12 @@
                 <div class="image-layer" style="background-image:url(/assets/images/slides/slide-v1-1.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
-                        <h3>Welcome to Interior Wallapering & Painting</h3>
+                        <h3>Descubre una amplia variedad de cortinas y persianas de alta calidad</h3>
                         <div class="big-title">
-                            <h2>The Best Quality<br> Wallpapers For<br> Your Home.</h2>
+                            <h2>Window Coverings <br> By Victoria Burques</h2>
                         </div>
                         <div class="btns-box">
-                            <a class="btn-one style2" href="#"><span class="txt">Discover More</span></a>
+                            <a class="btn-one style2" href="#"><span class="txt">Ver más</span></a>
                         </div>
                     </div>
                 </div>
@@ -23,12 +23,12 @@
                 <div class="image-layer" style="background-image:url(/assets/images/slides/slide-v1-2.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
-                        <h3>Welcome to Interior Wallapering & Painting</h3>
+                        <h3>Nuestros 30 años de exeriencia nos respaldan</h3>
                         <div class="big-title">
-                            <h2>The Best Quality<br> Wallpapers For<br> Your Home.</h2>
+                            <h2>Las mejores <br> Soluciones</h2>
                         </div>
                         <div class="btns-box">
-                            <a class="btn-one style2" href="#"><span class="txt">Discover More</span></a>
+                            <a class="btn-one style2" href="#"><span class="txt">Ver galería</span></a>
                         </div>
                     </div>
                 </div>
@@ -38,12 +38,12 @@
                 <div class="image-layer" style="background-image:url(/assets/images/slides/slide-v1-3.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
-                        <h3>Welcome to Interior Wallapering & Painting</h3>
+                        <h3>Somos una empresa comprometida con la calidad</h3>
                         <div class="big-title">
-                            <h2>The Best Quality<br> Wallpapers For<br> Your Home.</h2>
+                            <h2>Transforma tus <br> Espacios</h2>
                         </div>
                         <div class="btns-box">
-                            <a class="btn-one style2" href="#"><span class="txt">Discover More</span></a>
+                            <a class="btn-one style2" href="#"><span class="txt">Ver productos</span></a>
                         </div>
                     </div>
                 </div>
@@ -698,7 +698,7 @@
                             <li><span class="flaticon-speech-bubble-comment"></span><a href="#">2 Comments</a></li>
                         </ul>
                         <h3 class="blog-title">
-                            <a href="blog-single.html">How to protect your damage walls</a>
+                            <a href="/project-detail">How to protect your damage walls</a>
                         </h3>
                         <div class="text">
                             <p>There are not many of passages of lorem ipsum available alteration in some form.</p>

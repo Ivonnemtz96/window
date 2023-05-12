@@ -1,6 +1,6 @@
 <head>
     <meta charset="UTF-8">
-    <title>Home One || Wazors || Painting & Wallpapering Responsive HTML 5 Template</title>
+    <title>Window Coverings by Victoria Burquez</title>
 
     <!-- responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
