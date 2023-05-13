@@ -11,29 +11,20 @@
                         <p class="lead">Login to your account</p>
                     </div>
                     <div class="body">
-                        <form class="form-auth-small" action="index.html">
+                        <form class="form-auth-small" method="POST">
                             <div class="form-group">
                                 <label for="signin-email" class="control-label sr-only">Email</label>
-                                <input type="email" class="form-control" id="signin-email" value="user@domain.com"
+                                <input type="email" name="user_mail" class="form-control" id="user_mail" value="user@domain.com"
                                     placeholder="Email">
                             </div>
                             <div class="form-group">
                                 <label for="signin-password" class="control-label sr-only">Password</label>
-                                <input type="password" class="form-control" id="signin-password"
+                                <input type="password" name="user_pass" class="form-control" id="user_pass"
                                     value="thisisthepassword" placeholder="Password">
                             </div>
-                            <div class="form-group clearfix">
-                                <label class="fancy-checkbox element-left">
-                                    <input type="checkbox">
-                                    <span>Remember me</span>
-                                </label>
-                            </div>
+                          
                             <button type="submit" class="btn btn-primary btn-lg btn-block">LOGIN</button>
-                            <div class="bottom">
-                                <span class="helper-text m-b-10"><i class="fa fa-lock"></i> <a
-                                        href="auth-forgot-password.html">Forgot password?</a></span>
-                                <span>Don't have an account? <a href="auth-register.html">Register</a></span>
-                            </div>
+                           
                         </form>
                     </div>
                 </div>
