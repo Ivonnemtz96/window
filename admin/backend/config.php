@@ -1,17 +1,14 @@
 <?php
 include_once('backend/Database.php');
-define('SS_DB_NAME', 'arketll6_windowBlog');
-define('SS_DB_USER', 'arketll6_windowBlog');
-define('SS_DB_PASSWORD', 'XM9jPrEo24');
-define('SS_DB_HOST', 'localhost');
+ // Realizar la conexión a la base de datos
+ $servername = "localhost";
+ $username = "arketll6_windowBlog";
+ $password = "XM9jPrEo24";
+ $dbname = "arketll6_windowBlog";
 
-$dsn	= 	"mysql:dbname=".SS_DB_NAME.";host=".SS_DB_HOST."";
-$pdo	=	"";
-try {
-	$pdo = new PDO($dsn, SS_DB_USER, SS_DB_PASSWORD);
-}catch (PDOException $e) {
-	echo "Connection failed: " . $e->getMessage();
-}
-$db 	=	new Database($pdo);
+ $conn = new mysqli($servername, $username, $password, $dbname);
 
+ if ($conn->connect_error) {
+	 die("Conexión fallida: " . $conn->connect_error);
+ }
 ?>

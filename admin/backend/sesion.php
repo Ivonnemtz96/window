@@ -9,17 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $user_mail = $_POST['user_mail'];
     $user_pass = $_POST['user_pass'];
 
-    // Realizar la conexión a la base de datos
-    $servername = "localhost";
-    $username = "arketll6_windowBlog";
-    $password = "XM9jPrEo24";
-    $dbname = "arketll6_windowBlog";
-
-    $conn = new mysqli($servername, $username, $password, $dbname);
-
-    if ($conn->connect_error) {
-        die("Conexión fallida: " . $conn->connect_error);
-    }
+   include('backend/config.php');
 
     // Consultar en la base de datos si el usuario existe
     $sql = "SELECT user_id, user_nom FROM users WHERE user_mail = '$user_mail' AND user_pass = '$user_pass'";
