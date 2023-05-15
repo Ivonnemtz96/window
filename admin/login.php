@@ -1,10 +1,9 @@
 <?
+include('backend/Database.php');
+include('backend/sesion.php');
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
-
-include_once 'backend/user.php';
-include_once 'backend/user_session.php';
 ?>
 
 <!DOCTYPE html>
@@ -13,6 +12,7 @@ include_once 'backend/user_session.php';
 $title = 'Login';
 $inicio = 'active';
 include('includes/head.php');
+
 ?>
 <body class="theme-indigo">
 

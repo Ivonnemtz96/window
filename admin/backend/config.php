@@ -1,29 +1,17 @@
 <?php
-class DB{
-    private $host;
-    private $db;
-    private $user;
-    private $password;
-    private $charset;
-    public function __construct(){
-        $this->host     = 'localhost';
-        $this->db       = 'arketll6_windowBlog';
-        $this->user     = 'arketll6_windowBlog';
-        $this->password = "XM9jPrEo24";
-        $this->charset  = 'utf8mb4';
-    }
-    function connect(){
-        try{
-            $connection = "mysql:host=" . $this->host . ";dbname=" . $this->db . ";charset=" . $this->charset;
-            $options = [
-                PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
-                PDO::ATTR_EMULATE_PREPARES   => false,
-            ];
-            $pdo = new PDO($connection, $this->user, $this->password, $options);
-            return $pdo;
-        }catch(PDOException $e){
-            print_r('Error connection: ' . $e->getMessage());
-        }   
-    }
+include_once('backend/Database.php');
+define('SS_DB_NAME', 'arketll6_windowBlog');
+define('SS_DB_USER', 'arketll6_windowBlog');
+define('SS_DB_PASSWORD', 'XM9jPrEo24');
+define('SS_DB_HOST', 'localhost');
+
+$dsn	= 	"mysql:dbname=".SS_DB_NAME.";host=".SS_DB_HOST."";
+$pdo	=	"";
+try {
+	$pdo = new PDO($dsn, SS_DB_USER, SS_DB_PASSWORD);
+}catch (PDOException $e) {
+	echo "Connection failed: " . $e->getMessage();
 }
+$db 	=	new Database($pdo);
+
 ?>

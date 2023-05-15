@@ -96,7 +96,7 @@
                         <a class="dropdown-item" href="javascript:void(0);"><i
                                 class="fa fa-cog text-primary"></i>Settings</a>
                         <div class="dropdown-divider" role="presentation"></div>
-                        <a class="dropdown-item" href="javascript:void(0);"><i
+                        <a class="dropdown-item" href="/admin/backend/cerrar_sesion.php"><i
                                 class="fa fa-sign-out text-primary"></i>Sign out</a>
                     </div>
                 </li>

@@ -1,24 +1,40 @@
 <?php
-include('config.php');
+session_start();
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
-
-if (isset($_POST['login'])) {
+// Verificar si se ha enviado el formulario de inicio de sesión
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Obtener los datos de inicio de sesión enviados
     $user_mail = $_POST['user_mail'];
     $user_pass = $_POST['user_pass'];
-    $query = $this->connect()->prepare('SELECT * FROM users WHERE user_mail= :user_mail AND user_pass = :user_pass');
-    $query->execute(['user_mail' => $user_mail, 'user_pass' => $user_pass]);
 
-    if ($query ->rowCount()) {
-     return true;
-    } else {
-     return false;
+    // Realizar la conexión a la base de datos
+    $servername = "localhost";
+    $username = "arketll6_windowBlog";
+    $password = "XM9jPrEo24";
+    $dbname = "arketll6_windowBlog";
+
+    $conn = new mysqli($servername, $username, $password, $dbname);
+
+    if ($conn->connect_error) {
+        die("Conexión fallida: " . $conn->connect_error);
     }
 
-    
+    // Consultar en la base de datos si el usuario existe
+    $sql = "SELECT user_id, user_nom FROM users WHERE user_mail = '$user_mail' AND user_pass = '$user_pass'";
+    $result = $conn->query($sql);
 
+    if ($result->num_rows == 1) {
+        // Inicio de sesión exitoso, guardar información en la sesión
+        $row = $result->fetch_assoc();
+        $_SESSION['id'] = $row['user_id'];
+        $_SESSION['nombre'] = $row['user_nom'];
+        header("Location: /admin/perfil/"); // Redirigir a la página de inicio
+    } else {
+        // Credenciales inválidas
+        $error = "Usuario o contraseña incorrectos";
+    }
 
-
+    $conn->close();
 }
-?>
