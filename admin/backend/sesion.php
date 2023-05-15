@@ -28,8 +28,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($result->num_rows == 1) {
         // Inicio de sesión exitoso, guardar información en la sesión
         $row = $result->fetch_assoc();
-        $_SESSION['id'] = $row['user_id'];
-        $_SESSION['nombre'] = $row['user_nom'];
+        $_SESSION['user_id'] = $row['user_id'];
+        $_SESSION['user_nom'] = $row['user_nom'];
         header("Location: /admin/perfil/"); // Redirigir a la página de inicio
     } else {
         // Credenciales inválidas
