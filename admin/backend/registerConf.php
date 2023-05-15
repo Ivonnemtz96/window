@@ -1,28 +1,36 @@
 <?php
-include('config.php');
-session_start();
+include('backend/config.php');
+
 if (isset($_POST['register'])) {
-    $username = $_POST['user_name'];
-    $email = $_POST['user_mail'];
-    $password = $_POST['user_pass'];
-    $password_hash = password_hash($password, PASSWORD_BCRYPT);
-    $query = $connection->prepare("SELECT * FROM users WHERE EMAIL=:user_mail");
-    $query->bindParam("user_mail", $email, PDO::PARAM_STR);
-    $query->execute();
-    if ($query->rowCount() > 0) {
-        echo '<p class="error">The email address is already registered!</p>';
-    }
-    if ($query->rowCount() == 0) {
-        $query = $connection->prepare("INSERT INTO users(user_name,user_pass,user_mail) VALUES (:user_name,:password_hash,:user_mail)");
-        $query->bindParam("user_name", $username, PDO::PARAM_STR);
-        $query->bindParam("password_hash", $password_hash, PDO::PARAM_STR);
-        $query->bindParam("user_mail", $email, PDO::PARAM_STR);
-        $result = $query->execute();
-        if ($result) {
-            echo '<p class="success">Your registration was successful!</p>';
+    $user_nom = $_POST['user_nom'];
+    $user_mail = $_POST['user_mail'];
+    $user_pass = $_POST['user_pass'];
+
+    // Validar los datos ingresados por el usuario
+    if (empty($user_nom) || empty($user_mail) || empty($user_pass)) {
+        echo '<p class="error">Por favor, completa todos los campos.</p>';
+    } else {
+        // Verificar si el correo electrónico ya está registrado
+        $sql = "SELECT * FROM users WHERE user_mail = '$user_mail'";
+        $result = $conn->query($sql);
+
+        if ($result->num_rows > 0) {
+            echo '<p class="error">La dirección de correo electrónico ya está registrada.</p>';
         } else {
-            echo '<p class="error">Something went wrong!</p>';
+            // Generar un hash seguro de la contraseña
+            $password_hash = password_hash($user_pass, PASSWORD_DEFAULT);
+
+            // Insertar el nuevo usuario en la base de datos
+            $sql = "INSERT INTO users (user_nom, user_mail, user_pass) VALUES ('$user_nom', '$user_mail', '$password_hash')";
+
+            if ($conn->query($sql) === true) {
+                echo '<p class="success">¡Registro exitoso! Ahora puedes iniciar sesión.</p>';
+            } else {
+                echo '<p class="error">Hubo un error en el registro. Inténtalo de nuevo.</p>';
+            }
         }
     }
 }
+
+$conn->close();
 ?>

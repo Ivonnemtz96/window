@@ -9,3 +9,6 @@
  <script src="../assets/js/theme.js"></script>
  <script src="../assets/js/pages/index.js"></script>
  <!-- <script src="../assets/js/pages/todo-js.js"></script> -->
+
+ <!-- sweet alert -->
+ <script src=" https://cdn.jsdelivr.net/npm/sweetalert2@11.7.5/dist/sweetalert2.all.min.js "></script>

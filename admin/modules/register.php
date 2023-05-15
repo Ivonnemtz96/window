@@ -12,10 +12,10 @@
                         <p class="lead">Create an account</p>
                     </div>
                     <div class="body">
-                        <form class="form-auth-small">
+                        <form class="form-auth-small" method="POST">
                             <div class="form-group">
                                 <label for="signup-email" class="control-label sr-only">Nombre</label>
-                                <input type="text" class="form-control" name="user_name" id="user_name" placeholder="Nombre">
+                                <input type="text" class="form-control" name="user_nom" id="user_nom" placeholder="Nombre">
                             </div>
                             <div class="form-group">
                                 <label for="signup-email" class="control-label sr-only">Email</label>
