@@ -1,0 +1,12 @@
+comentado en config.phph
+<?php
+// define('USER', 'arketll6_windowBlog');
+// define('PASSWORD', 'XM9jPrEo24');
+// define('HOST', 'localhost');
+// define('DATABASE', 'arketll6_windowBlog');
+// try {
+//     $connection = new PDO("mysql:host=".HOST.";dbname=".DATABASE, USER, PASSWORD);
+// } catch (PDOException $e) {
+//     exit("Error: " . $e->getMessage());
+// }
+// ?>

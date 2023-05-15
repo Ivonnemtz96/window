@@ -11,20 +11,26 @@
                         <p class="lead">Login to your account</p>
                     </div>
                     <div class="body">
-                        <form class="form-auth-small" method="POST">
+                        <form class="" method="POST">
+                            <?php
+                                if(isset($errorLogin)){
+                                    echo $errorLogin;
+                                }
+                            ?>
                             <div class="form-group">
                                 <label for="signin-email" class="control-label sr-only">Email</label>
-                                <input type="email" name="user_mail" class="form-control" id="user_mail" value="user@domain.com"
+                                <input type="email" name="user_mail" class="form-control" id="user_mail" value=""
                                     placeholder="Email">
                             </div>
                             <div class="form-group">
                                 <label for="signin-password" class="control-label sr-only">Password</label>
-                                <input type="password" name="user_pass" class="form-control" id="user_pass"
-                                    value="thisisthepassword" placeholder="Password">
+                                <input type="password" name="user_pass" class="form-control" id="user_pass" value=""
+                                    placeholder="Password">
                             </div>
-                          
-                            <button type="submit" class="btn btn-primary btn-lg btn-block">LOGIN</button>
-                           
+
+                            <button type="submit" name="login" value="login"
+                                class="btn btn-primary btn-lg btn-block">LOGIN</button>
+
                         </form>
                     </div>
                 </div>

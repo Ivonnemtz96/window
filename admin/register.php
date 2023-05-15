@@ -1,12 +1,6 @@
 <?
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-
-include_once 'backend/user.php';
-include_once 'backend/user_session.php';
+include('backend/registerConf.php');
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -14,11 +8,12 @@ $title = 'Login';
 $inicio = 'active';
 include('includes/head.php');
 ?>
+
 <body class="theme-indigo">
 
     <?php
     include('includes/header.php');
-    include('modules/login.php');
+    include('modules/register.php');
     include('includes/footer.php');
     include('includes/scripts.php');
         ?>
