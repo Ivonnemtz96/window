@@ -2,7 +2,7 @@
         <nav class="sidebar">
             <div class="user-info">
                 <div class="image">
-                    <a href="javascript:void(0);"><img src="../assets/images/user.png" alt="User" /></a>
+                    <a href="/admin/perfil/"><img src="../assets/images/user.png" alt="User" /></a>
                 </div>
                 <div class="detail mt-3">
                     <h5 class="mb-0"><? echo $_SESSION['user_nom'];?></h5>
@@ -23,7 +23,7 @@
                     <a href="ui-elements.html"><i class="ti-vector"></i><span>UI Elements</span></a>
                 </li>
                 <li>
-                    <a href="/admin/nuevo/blog"><i class="ti-vector"></i><span>Nuevo blog</span></a>
+                    <a href="/admin/blog"><i class="ti-vector"></i><span>Nuevo blog</span></a>
                 </li>
                 <li class="g_heading">Application</li>
                 <li>
