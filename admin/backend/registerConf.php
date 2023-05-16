@@ -15,7 +15,11 @@ if (isset($_POST['register'])) {
         $result = $conn->query($sql);
 
         if ($result->num_rows > 0) {
-            echo '<p class="error">La dirección de correo electrónico ya está registrada.</p>';
+            echo ' <div class="alert alert-danger alert-dismissible show fade" role="alert">
+            <strong>Ups!</strong> Ya existe este correo.
+            <button type="button" class="undo" aria-label="Undo">Undo</button>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+        </div>';
         } else {
             // Generar un hash seguro de la contraseña
             $password_hash = password_hash($user_pass, PASSWORD_DEFAULT);
@@ -24,9 +28,25 @@ if (isset($_POST['register'])) {
             $sql = "INSERT INTO users (user_nom, user_mail, user_pass) VALUES ('$user_nom', '$user_mail', '$password_hash')";
 
             if ($conn->query($sql) === true) {
-                echo '<p class="success">¡Registro exitoso! Ahora puedes iniciar sesión.</p>';
+                echo '<script>
+                Swal.fire({
+                    title: "¡Éxito!",
+                    text: "El registro se ha completado exitosamente.",
+                    icon: "success",
+                    confirmButtonText: "Aceptar"
+                });
+                window.location= "/admin/register/"
+              </script>';
             } else {
-                echo '<p class="error">Hubo un error en el registro. Inténtalo de nuevo.</p>';
+                echo '<script>
+            Swal.fire({
+            title: "¡uppps!",
+            text: "El registro no se ha completado.",
+            icon: "error",
+            confirmButtonText: "Aceptar"
+                });
+                window.location= "/admin/register/"
+            </script>';
             }
         }
     }
