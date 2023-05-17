@@ -58,7 +58,7 @@
                     <div class="text">
                         <h3>Contacto</h3>
                         <p><a target="_blank"
-                                href="mailto:info@windowandcovering.com">info@windowandcovering.com</a><br>
+                                href="mailto:info@windowcoverings.com">info@windowcoverings.com</a><br>
                             <a target="_blank" href="tel:+526121552640">+612 155 2640</a>
                         </p>
                     </div>
