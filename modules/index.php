@@ -71,26 +71,31 @@
                         <div class="sub-title">
                             <h3>Sobre Nosotros</h3>
                         </div>
-                        <h2>We’re Leader in Interior<br> Design Market</h2>
+                        <h2>La solución perfecta para tus necesidades</h2>
                     </div>
                     <div class="inner-content">
                         <div class="text">
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered alteration in some form, by injected humour, or randomised words which don't
-                                look even slightly believable.</p>
+                            <p>
+                                Con más de 30 años de experiencia en el mercado, somos la empresa líder en la industria
+                                de persianas y cortinas. Nos enorgullece ofrecer a nuestros clientes productos de la más
+                                alta calidad, respaldados por décadas de conocimiento y experiencia en el sector.
+                                Nuestro compromiso con la excelencia nos ha convertido en la elección confiable para
+                                varios decenas de nuestros clientes satisfechos.
+                            </p>
                         </div>
                         <ul>
-                            <li><span class="flaticon-tick"></span>We’re professional and certified designers</li>
-                            <li><span class="flaticon-tick"></span>We use quality material to make your walls awesome
+                            <li><span class="flaticon-tick"></span>Productos de alta calidad</li>
+                            <li><span class="flaticon-tick"></span>
+                                Expertos altamente capacitados
                             </li>
-                            <li><span class="flaticon-tick"></span>We care about our customers satisfaction</li>
+                            <li><span class="flaticon-tick"></span>Comprometidos a superar tus expectativas</li>
                         </ul>
                         <div class="bottom-box">
                             <div class="icon">
                                 <span class="flaticon-armchair"></span>
                             </div>
                             <div class="title">
-                                <h3>We have 30+ years of experiences for give you better quality results.</h3>
+                                <h3>Experiencia de más de 30 años</h3>
                             </div>
                         </div>
                     </div>
@@ -105,7 +110,7 @@
                         <img src="/assets/images/about/about-1.png" alt="Awesome Image">
                         <div class="icon-box thm-bgclr paroller-2">
                             <span class="flaticon-wallpaper"></span>
-                            <h3>Founded<br> in 1987</h3>
+                            <h3>Desde<br> 1993</h3>
                         </div>
                     </div>
                 </div>
@@ -126,7 +131,7 @@
                     <div class="img-holder">
                         <img src="/assets/images/resources/featured-1.jpg" alt="">
                         <div class="title">
-                            <h3><a href="#">Best Quality<br> Standards</a></h3>
+                            <h3><a href="#">Mejores estándares<br> de calidad</a></h3>
                         </div>
                     </div>
                 </div>
@@ -138,7 +143,7 @@
                     <div class="img-holder">
                         <img src="/assets/images/resources/featured-2.jpg" alt="">
                         <div class="title">
-                            <h3><a href="#">Smart & Unique<br>Wall Work</a></h3>
+                            <h3><a href="#">Productos que <br> se adaptan a ti</a></h3>
                         </div>
                     </div>
                 </div>
@@ -148,27 +153,26 @@
                 <div class="free-estimate-box text-center"
                     style="background-image: url(/assets/images/resources/free-estimate-box-bg.jpg)">
                     <div class="icon-box"><span class="flaticon-alarm-clock"></span></div>
-                    <h2>Timings</h2>
+                    <h2>Horario</h2>
                     <ul>
                         <li>
-                            <p>Mon</p>
+                            <p>Lun - Vie</p>
                             <h3>9:00am - 6:00pm</h3>
                         </li>
                         <li>
-                            <p>Fri to Sat</p>
-                            <h3>10:00am - 4:00pm</h3>
+                            <p>Sábados</p>
+                            <h3>9:00am - 2:00pm</h3>
                         </li>
                         <li>
-                            <p>Sun</p>
-                            <h3>Work Holiday</h3>
+                            <p>Domingo</p>
+                            <h3>Cerrado</h3>
                         </li>
                     </ul>
                     <div class="buttom-box">
-                        <a class="btn-one" href="#"><span class="txt">Get a Free Estimate</span></a>
+                        <a class="btn-one" href="#"><span class="txt">Cotiza gratis</span></a>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </section>
@@ -226,7 +230,8 @@
                                             <div class="single-team-member text-center">
                                                 <div class="img-holder">
                                                     <div class="inner">
-                                                        <img src="/assets/images/team/team-v2-1.jpg" alt="Awesome Image">
+                                                        <img src="/assets/images/team/team-v2-1.jpg"
+                                                            alt="Awesome Image">
                                                         <div class="overlay-social-content">
                                                             <div class="team-social-link">
                                                                 <ul>
@@ -265,7 +270,8 @@
                                             <div class="single-team-member text-center">
                                                 <div class="img-holder">
                                                     <div class="inner">
-                                                        <img src="/assets/images/team/team-v2-2.jpg" alt="Awesome Image">
+                                                        <img src="/assets/images/team/team-v2-2.jpg"
+                                                            alt="Awesome Image">
                                                         <div class="overlay-social-content">
                                                             <div class="team-social-link">
                                                                 <ul>
@@ -390,9 +396,9 @@
 <!--End Interior Design Area-->
 
 <!--Start Project Style1 Area-->
-<section class="project-style1-area">
+<section hidden class="project-style1-area">
     <div class="recent-project-title thm-bgclr text-center paroller-2">
-        <h2>Our Recent Projects</h2>
+        <h2>Proyectos recientes</h2>
     </div>
     <div class="auto-container-box">
         <ul class="project-style1-content">
@@ -487,7 +493,7 @@
 <!--End Project Style1 Area-->
 
 <!-- Start Service Style1 Area -->
-<section class="service-style1-area">
+<section hidden class="service-style1-area">
     <div class="top-gray-bg wow slideInDown" data-wow-delay="100ms" data-wow-duration="2500ms"></div>
     <div class="container">
         <div class="sec-title text-center">
@@ -572,18 +578,18 @@
                         <span class="flaticon-time-management"></span>
                     </div>
                     <div class="title">
-                        <p>Book Your Schedule</p>
-                        <h2><a href="tel:123456789">666 888 0000</a></h2>
+                        <p>Estimaciones gratis en casa</p>
+                        <h2><a href="tel:+526121552640">612 155 2640</a></h2>
                     </div>
                 </div>
             </div>
             <div class="col-xl-7 col-lg-8">
                 <div class="booking-content-box">
                     <div class="text">
-                        <p>Lorem ipsum dolor sit amet nsectetur cing ndisse suscipit sagitis leo sit.</p>
+                        <p>¡Descubre la elegancia en cada detalle! Explora nuestros productos ahora.</p>
                     </div>
                     <div class="buttom-box">
-                        <a class="btn-one" href="#"><span class="txt">Get a Free Estimate</span></a>
+                        <a class="btn-one" href="tel:+526121552640"><span class="txt">Solicitar cotización</span></a>
                     </div>
                 </div>
             </div>
@@ -601,26 +607,28 @@
                 <div class="testimonial-style1-content">
                     <div class="sec-title">
                         <div class="sub-title">
-                            <h3>Client Testimonials</h3>
+                            <h3>Opiniones</h3>
                         </div>
-                        <h2>What They’re Saying<br> About Our Work</h2>
+                        <h2>¿Qué dicen<br> nuestros clientes?</h2>
                     </div>
                     <div class="testimonial-carousel-rtl owl-carousel owl-theme">
                         <!--Start Single Testimonial Style1-->
                         <div class="single-testimonial-style1">
                             <div class="text-holder">
                                 <div class="text-box">
-                                    <p>I have just had two of the most productive work weeks I have had in years. Ben
-                                        was perfectly matched to my temperament, and has been taking all the backlogged
-                                        work off my plate and finishing it. I'm really impressed.</p>
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis nulla,
+                                        assumenda saepe architecto porro ullam, quo ad iure vero, accusantium inventore
+                                        cumque nihil eum delectus.
+                                    </p>
                                 </div>
                                 <div class="client-info">
                                     <div class="image-box">
                                         <img src="/assets/images/testimonial/tes-v1-1.png" alt="">
                                     </div>
                                     <div class="title-box">
-                                        <h3>Jessica Brown</h3>
-                                        <span>Co-Founder</span>
+                                        <h3>Cliente 1</h3>
+                                        <span>Empresa</span>
                                     </div>
                                 </div>
 
@@ -631,25 +639,25 @@
                         <div class="single-testimonial-style1">
                             <div class="text-holder">
                                 <div class="text-box">
-                                    <p>I have just had two of the most productive work weeks I have had in years. Ben
-                                        was perfectly matched to my temperament, and has been taking all the backlogged
-                                        work off my plate and finishing it. I'm really impressed.</p>
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi quas cum magnam,
+                                        eos pariatur qui provident iusto sed accusamus quis voluptates placeat rerum
+                                        tempore ab. Vel temporibus repudiandae dolore ut!
+                                    </p>
                                 </div>
                                 <div class="client-info">
                                     <div class="image-box">
                                         <img src="/assets/images/testimonial/tes-v1-1.png" alt="">
                                     </div>
                                     <div class="title-box">
-                                        <h3>Jessica Brown</h3>
-                                        <span>Co-Founder</span>
+                                        <h3>Cliente 2</h3>
+                                        <span>Empresa</span>
                                     </div>
                                 </div>
 
                             </div>
                         </div>
                         <!--End Single Testimonial Style1-->
-
-
                     </div>
                 </div>
             </div>
@@ -673,9 +681,9 @@
     <div class="container">
         <div class="sec-title text-center">
             <div class="sub-title">
-                <h3>News & Updates</h3>
+                <h3>Nuestros proyectos</h3>
             </div>
-            <h2>Recent Blog Posts</h2>
+            <h2>Ve un poco más de nuestros trabajos</h2>
         </div>
         <div class="row">
             <!--Start Single blog Style1-->
@@ -899,29 +907,3 @@
 </section>
 <!--End Partner Area-->
 
-<!--Start Discover Area-->
-<section class="discover-area" style="background-image: url(/assets/images/parallax-background/discover-area-bg.jpg)">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-7">
-                <div class="discover-content-box">
-                    <h2>We Pay Attention to Every<br> Detail to Make your Room<br> Wall Stunning</h2>
-                    <div class="buttom-box">
-                        <a class="btn-one" href="#"><span class="txt">Discover More</span></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-5">
-                <div class="discover-image-box">
-                    <div class="image1" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">
-                        <img src="/assets/images/resources/discover-1.jpg" alt="">
-                    </div>
-                    <div class="image2 paroller-2">
-                        <img src="/assets/images/resources/discover-2.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Discover Area-->
