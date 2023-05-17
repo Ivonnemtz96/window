@@ -20,7 +20,6 @@
     </div>
 </section>
 <!--End breadcrumb area-->
-
 <!--Start Contact Info Area-->
 <section class="contact-info-area">
     <div class="container">
@@ -65,13 +64,10 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </section>
 <!--End Contact Info Area-->
-
-
 <!--Start Contact Form Style1 Area-->
 <section class="contact-form-style1-area">
     <div class="container">
@@ -128,11 +124,9 @@
                 </div>
             </div>
         </div>
-
     </div>
 </section>
 <!--End Contact Form Style1 Area-->
-
 <!--Start Home map area-->
 <section class="home-map-area">
     <div class="home-map-outer">
