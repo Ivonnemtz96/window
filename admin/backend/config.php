@@ -1,5 +1,5 @@
 <?php
-include_once('backend/Database.php');
+// require_once($_SERVER["DOCUMENT_ROOT"]."/backend/Database.php");
  // Realizar la conexión a la base de datos
  $servername = "localhost";
  $username = "arketll6_windowBlog";

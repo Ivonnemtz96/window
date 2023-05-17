@@ -38,7 +38,3 @@
 <!-- thm custom script -->
 <script src="/assets/js/custom.js"></script>
 
-<script src="/assets/js/map-script.js"></script>
-<script async defer
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyATY4Rxc8jNvDpsK8ZetC7JyN4PFVYGCGM&amp;callback=initMap">
-</script>
