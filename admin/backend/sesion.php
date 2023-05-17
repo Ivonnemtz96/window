@@ -20,14 +20,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $row = $result->fetch_assoc();
         $_SESSION['user_id'] = $row['user_id'];
         $_SESSION['user_nom'] = $row['user_nom'];
-        $response = array("response" => "Ok");
-        echo(json_encode($response));
-        //header("Location: /admin/perfil/"); // Redirigir a la página de inicio
+        // $response = array("response" => "Ok");
+        // echo(json_encode($response));
+        header("Location: /admin/perfil/"); // Redirigir a la página de inicio
     } else {
         // Credenciales inválidas
         $error = "Usuario o contraseña incorrectos";
-        $response = array("response" => "Error");
-        echo(json_encode($response));
+        // $response = array("response" => "Error");
+        // echo(json_encode($response));
     }
 
     $conn->close();

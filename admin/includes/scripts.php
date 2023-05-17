@@ -9,14 +9,18 @@
  <script src="../assets/js/theme.js"></script>
  <script src="../assets/js/pages/index.js"></script>
  <!-- <script src="../assets/js/pages/todo-js.js"></script> -->
+
+
+ <!-- Jquery alerts -->
  <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
-<script type="text/javascript">
+
+<!-- <script type="text/javascript">
     $("#login").submit((e) => {
         e.preventDefault();
         var datos = $("#login").serialize();
-        var postear = $.post("/admin/backend/sesion", datos);
+        var postear = $.post("/admin/backend/sesion.php", datos);
         postear.done((response) => {
             alert(JSON.parse(response));
         });
     });
-</script>
+</script> -->

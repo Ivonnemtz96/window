@@ -16,7 +16,6 @@ include('includes/head.php');
 <body class="theme-indigo">
 
     <?php
-    include('includes/header.php');
     include('modules/login.php');
     include('includes/footer.php');
     include('includes/scripts.php');
