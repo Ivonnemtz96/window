@@ -69,7 +69,7 @@
                 <div class="about-style1-content-box">
                     <div class="sec-title">
                         <div class="sub-title">
-                            <h3>About Wazors</h3>
+                            <h3>Sobre Nosotros</h3>
                         </div>
                         <h2>We’re Leader in Interior<br> Design Market</h2>
                     </div>

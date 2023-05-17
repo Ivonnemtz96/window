@@ -1,5 +1,6 @@
 <?php
 include('backend/config.php');
+include('backend/msj.php');
 
 if (isset($_POST['register'])) {
     $user_nom = $_POST['user_nom'];
@@ -15,11 +16,7 @@ if (isset($_POST['register'])) {
         $result = $conn->query($sql);
 
         if ($result->num_rows > 0) {
-            echo ' <div class="alert alert-danger alert-dismissible show fade" role="alert">
-            <strong>Ups!</strong> Ya existe este correo.
-            <button type="button" class="undo" aria-label="Undo">Undo</button>
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
-        </div>';
+            function_alert("ya existe el correo");
         } else {
             // Generar un hash seguro de la contraseña
             $password_hash = password_hash($user_pass, PASSWORD_DEFAULT);

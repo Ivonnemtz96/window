@@ -11,7 +11,7 @@
                         <p class="lead">Login to your account</p>
                     </div>
                     <div class="body">
-                        <form class="" method="POST">
+                        <form id="login" class="" method="POST">
                             <?php
                                 if(isset($errorLogin)){
                                     echo $errorLogin;
