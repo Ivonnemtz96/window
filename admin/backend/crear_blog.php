@@ -39,7 +39,6 @@ if (isset($_POST["submit"])) {
     }
 
     // Cerrar la conexión a la base de datos
-    var_dump($_POST["submit"]); exit;
     mysqli_close($conn);
 }
 ?>
