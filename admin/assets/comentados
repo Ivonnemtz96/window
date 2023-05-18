@@ -23,3 +23,45 @@ comentado en config.phph
     if ($conn->connect_error) {
         die("Conexión fallida: " . $conn->connect_error);
     } -->
+
+
+    <?
+ //Conectar a la bd
+ include('backend/config.php');
+
+if(isset($_POST["submit"])){
+    $blog_nom = $_POST['blog_nom'];
+    $blog_nomEng = $_POST['blog_nomEng'];
+    $blog_autor = $_POST['blog_autor'];
+    $blog_cat = $_POST['blog_cat'];
+    $blog_lugar = $_POST['blog_lugar'];
+    $blog_fecha = date('Y-m-d');
+    $blog_desc = $_POST['blog_desc'];
+    $blog_descEng = $_POST['blog_descEng'];
+    $revisar = getimagesize($_FILES["blog_portada"]["tmp_name"]);
+
+    if($revisar !== false){
+        $blog_portada = $_FILES['blog_portada']['tmp_name'];
+        $imgContenido = addslashes(file_get_contents($blog_portada));
+       
+        //Insertar imagen en la base de datos
+        $query = "INSERT into blog (blog_nom, blog_nombEng, blog_autor, blog_cat, blog_lugar, blog_fecha, blog_portada,blog_desc, blog_descEng)  VALUES ('$blog_nom','$blog_nomEng','$blog_autor','$blog_cat','$blog_lugar',now(),$imgContenido','$blog_desc','$blog_descEng' )";
+        $stmt = mysqli_prepare($conn, $query);
+        mysqli_stmt_bind_param($stmt, 'sss', $blog_nom, $blog_nomEng, $blog_autor, $blog_cat, $blog_lugar, $blog_fecha, $blog_desc, $blog_descEng, $imgContenido);
+
+
+        // Condicional para verificar la subida del fichero
+        if(mysqli_stmt_execute($stmt)){
+            echo "Archivo Subido Correctamente.";
+        }else{
+            echo "Ha fallado la subida, reintente nuevamente.";
+        } 
+        // Sie el usuario no selecciona ninguna imagen
+    }else{
+        echo "Por favor seleccione imagen a subir.";
+    }
+        // Cerrar la conexión
+        mysqli_stmt_close($stmt);
+        mysqli_close($conn);
+}
+?>
