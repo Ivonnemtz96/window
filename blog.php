@@ -22,5 +22,6 @@ include('includes/head.php');
     <?
      include('includes/scripts.php');   
     ?>
+    
 </body>
 </html>
