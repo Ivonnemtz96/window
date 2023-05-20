@@ -1,6 +1,6 @@
 <button class="scroll-top scroll-to-target" data-target="html">
     <span class="fa fa-angle-up"></span>
-</button> 
+</button>
 
 
 
@@ -22,7 +22,7 @@
 <script src="/assets/js/map-script.js"></script>
 <script src="/assets/js/nouislider.js"></script>
 <script src="/assets/js/owl.js"></script>
-<script src="/assets/js/timePicker.js"></script>   
+<script src="/assets/js/timePicker.js"></script>
 <script src="/assets/js/validation.js"></script>
 <script src="/assets/js/wow.js"></script>
 <script src="/assets/js/jquery.magnific-popup.min.js"></script>
@@ -37,4 +37,8 @@
 <script src="/assets/js/jQuery.style.switcher.min.js"></script>
 <!-- thm custom script -->
 <script src="/assets/js/custom.js"></script>
+
+<script src="/assets/js/app.js"></script>
+<script src="/assets/js/item.js"></script>
+
 

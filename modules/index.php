@@ -107,7 +107,7 @@
                         <img src="/assets/images/shape/shape-3.png" alt="">
                     </div>
                     <div class="main-image">
-                        <img src="/assets/images/about/about-1.png" alt="Awesome Image">
+                        <img src="/assets/images/about/about-1.png?=1" alt="Awesome Image">
                         <div class="icon-box thm-bgclr paroller-2">
                             <span class="flaticon-wallpaper"></span>
                             <h3>Desde<br> 1993</h3>
@@ -129,7 +129,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="single-featured-style1 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="/assets/images/resources/featured-1.jpg" alt="">
+                        <img src="/assets/images/resources/featured-2.jpg?=1" alt="">
                         <div class="title">
                             <h3><a href="#">Mejores estándares<br> de calidad</a></h3>
                         </div>
@@ -141,7 +141,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="single-featured-style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="/assets/images/resources/featured-2.jpg" alt="">
+                        <img src="/assets/images/resources/featured-1.jpg?=1" alt="">
                         <div class="title">
                             <h3><a href="#">Productos que <br> se adaptan a ti</a></h3>
                         </div>
@@ -666,7 +666,7 @@
                 <div class="testimonial-style2-image-box clearfix wow" data-wow-delay="300ms"
                     data-wow-duration="1500ms">
                     <div class="bg-box thm-bgclr"></div>
-                    <img src="/assets/images/resources/tes-style2-image-box-bg.jpg" alt="">
+                    <img src="/assets/images/resources/tes-style2-image-box-bg.jpg?=1" alt="">
                     <div class="title-box">Customer Feedbacks</div>
                 </div>
             </div>
@@ -796,14 +796,14 @@
                             data-wow-duration="1500ms">
                             <div class="count-box">
                                 <h2>
-                                    <span class="timer" data-from="1" data-to="8705" data-speed="5000"
-                                        data-refresh-interval="50">8705</span>
+                                    <span class="timer" data-from="1" data-to="100" data-speed="5000"
+                                        data-refresh-interval="50">100</span>
                                     <span class="icon">
                                         <i class="flaticon-plus"></i>
                                     </span>
                                 </h2>
                                 <div class="sub-title">
-                                    <h5>Projects Completed</h5>
+                                    <h5>Proyectos completados</h5>
                                 </div>
                             </div>
                         </li>
@@ -813,14 +813,14 @@
                             data-wow-duration="1500ms">
                             <div class="count-box">
                                 <h2>
-                                    <span class="timer" data-from="1" data-to="487" data-speed="5000"
-                                        data-refresh-interval="50">487</span>
+                                    <span class="timer" data-from="1" data-to="87" data-speed="5000"
+                                        data-refresh-interval="50">87</span>
                                     <span class="icon">
                                         <i class="flaticon-plus"></i>
                                     </span>
                                 </h2>
                                 <div class="sub-title">
-                                    <h5>Active Clients</h5>
+                                    <h5>Clientes activos</h5>
                                 </div>
                             </div>
                         </li>
@@ -830,14 +830,14 @@
                             data-wow-duration="1500ms">
                             <div class="count-box">
                                 <h2>
-                                    <span class="timer" data-from="1" data-to="620" data-speed="5000"
-                                        data-refresh-interval="50">620</span>
+                                    <span class="timer" data-from="1" data-to="2" data-speed="5000"
+                                        data-refresh-interval="50">2</span>
                                     <span class="icon">
                                         <i class="flaticon-plus"></i>
                                     </span>
                                 </h2>
                                 <div class="sub-title">
-                                    <h5>Cups of Coffee</h5>
+                                    <h5>Sucursales</h5>
                                 </div>
                             </div>
                         </li>
@@ -847,14 +847,14 @@
                             data-wow-duration="1500ms">
                             <div class="count-box">
                                 <h2>
-                                    <span class="timer" data-from="1" data-to="9704" data-speed="5000"
-                                        data-refresh-interval="50">9704</span>
+                                    <span class="timer" data-from="1" data-to="100" data-speed="5000"
+                                        data-refresh-interval="50">100</span>
                                     <span class="icon">
                                         <i class="flaticon-plus"></i>
                                     </span>
                                 </h2>
                                 <div class="sub-title">
-                                    <h5>Happy Clients</h5>
+                                    <h5>Clientes contentos</h5>
                                 </div>
                             </div>
                         </li>
@@ -906,4 +906,3 @@
     </div>
 </section>
 <!--End Partner Area-->
-
