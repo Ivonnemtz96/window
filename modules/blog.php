@@ -1,5 +1,5 @@
 <!--Start breadcrumb area-->
-<section class="breadcrumb-area" style="background-image: url(/assets/images/breadcrumb/breadcrumb-1.jpg);">
+<section class="breadcrumb-area" style="background-image: url(/assets/images/breadcrumb/breadcrumb-1.jpg?=1);">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -32,7 +32,7 @@
                     data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/blog/blog-v1-1.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-1.jpg?=1" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -59,7 +59,7 @@
                     data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/blog/blog-v1-2.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-2.jpg?=1" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -86,7 +86,7 @@
                     data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/blog/blog-v1-3.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-3.jpg?=1" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -114,7 +114,7 @@
                     data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/blog/blog-v1-2.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-2.jpg?=1" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -141,7 +141,7 @@
                     data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/blog/blog-v1-3.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-3.jpg?=1" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -168,7 +168,7 @@
                     data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/blog/blog-v1-1.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-1.jpg?=1" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>

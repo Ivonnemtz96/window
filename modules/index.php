@@ -187,17 +187,17 @@
                 <div class="interior-design-content-box">
                     <div class="sec-title">
                         <div class="sub-title">
-                            <h3>Best Interior Design</h3>
+                            <h3>Window Coverings</h3>
                         </div>
-                        <h2>Quality Work That Meets<br> Your Expectations</h2>
+                        <h2>Un trabajo de calidad a <br>la altura de sus expectativas</h2>
                     </div>
                     <div class="interior-design-tab tabs-box">
 
                         <div class="tab-button-column clearfix">
                             <ul class="tab-buttons clearfix">
-                                <li data-tab="#material" class="tab-btn active-btn">Quality Material</li>
-                                <li data-tab="#team" class="tab-btn">Expert Team</li>
-                                <li data-tab="#work" class="tab-btn">Smart Work</li>
+                                <li data-tab="#material" class="tab-btn active-btn">Materiales de calidad</li>
+                                <li data-tab="#team" class="tab-btn">Elegancia</li>
+                                <li data-tab="#work" class="tab-btn">Confort</li>
                             </ul>
                         </div>
 
@@ -208,14 +208,13 @@
                                     <div class="row">
                                         <div class="col-xl-4">
                                             <div class="img-box">
-                                                <img src="/assets/images/resources/material-1.png" alt="">
+                                                <img src="/assets/images/resources/material-1.png?=2" alt="">
                                             </div>
                                         </div>
                                         <div class="col-xl-8">
                                             <div class="text-box">
-                                                <p>There are many variations of passages of available but the majority
-                                                    have suffered alteration in some form, or randomised words which don
-                                                    look even slightly believable.</p>
+                                                <p> Una opción única para darle un toque de exclusividad, elegancia y
+                                                    confort a cualquier espacio.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -225,86 +224,16 @@
                             <div class="tab" id="team">
                                 <div class="team-tab-content">
                                     <div class="row">
-                                        <!--Start Single Team Member-->
-                                        <div class="col-xl-6 col-lg-6 col-md-6">
-                                            <div class="single-team-member text-center">
-                                                <div class="img-holder">
-                                                    <div class="inner">
-                                                        <img src="/assets/images/team/team-v2-1.jpg"
-                                                            alt="Awesome Image">
-                                                        <div class="overlay-social-content">
-                                                            <div class="team-social-link">
-                                                                <ul>
-                                                                    <li>
-                                                                        <a class="fb" href="#"><i class="fa fa-facebook"
-                                                                                aria-hidden="true"></i></a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a class="tw" href="#"><i class="fa fa-twitter"
-                                                                                aria-hidden="true"></i></a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a class="linkedin" href="#"><i
-                                                                                class="fa fa-linkedin"
-                                                                                aria-hidden="true"></i></a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a class="pint" href="#"><i
-                                                                                class="fa fa-pinterest"
-                                                                                aria-hidden="true"></i></a>
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="title-holder">
-                                                    <h3><a href="#">Jessica Brown</a></h3>
-                                                    <span>Designer</span>
-                                                </div>
+                                        <div class="col-xl-4">
+                                            <div class="img-box">
+                                                <img src="/assets/images/resources/material-2.png" alt="">
                                             </div>
                                         </div>
-                                        <!--End Single Team Member-->
-                                        <!--Start Single Team Member-->
-                                        <div class="col-xl-6 col-lg-6 col-md-6">
-                                            <div class="single-team-member text-center">
-                                                <div class="img-holder">
-                                                    <div class="inner">
-                                                        <img src="/assets/images/team/team-v2-2.jpg"
-                                                            alt="Awesome Image">
-                                                        <div class="overlay-social-content">
-                                                            <div class="team-social-link">
-                                                                <ul>
-                                                                    <li>
-                                                                        <a class="fb" href="#"><i class="fa fa-facebook"
-                                                                                aria-hidden="true"></i></a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a class="tw" href="#"><i class="fa fa-twitter"
-                                                                                aria-hidden="true"></i></a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a class="linkedin" href="#"><i
-                                                                                class="fa fa-linkedin"
-                                                                                aria-hidden="true"></i></a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a class="pint" href="#"><i
-                                                                                class="fa fa-pinterest"
-                                                                                aria-hidden="true"></i></a>
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="title-holder">
-                                                    <h3><a href="#">Mike Hardson</a></h3>
-                                                    <span>Designer</span>
-                                                </div>
+                                        <div class="col-xl-8">
+                                            <div class="text-box">
+                                                <p>Tu ventana al diseño: Productos que marcan la diferencia</p>
                                             </div>
                                         </div>
-                                        <!--End Single Team Member-->
                                     </div>
                                 </div>
                             </div>
@@ -312,43 +241,19 @@
                             <div class="tab" id="work">
                                 <div class="work-tab-content">
                                     <div class="row">
-                                        <!--Start Single Project Style1-->
-                                        <div class="col-xl-6 col-lg-6 col-md-6">
-                                            <div class="single-project-style1">
-                                                <div class="img-holder">
-                                                    <img src="/assets/images/project/project-v3-1.jpg"
-                                                        alt="Awesome Image">
-                                                    <div class="overlay-content">
-                                                        <div class="inner">
-                                                            <h3><a href="#">Washroom<br> Wall Design</a></h3>
-                                                            <div class="readmore-button">
-                                                                <a href="#"><span class="flaticon-up-arrow"></span></a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                        <div class="col-xl-4">
+                                            <div class="img-box">
+                                                <img src="/assets/images/resources/material-3.png" alt="">
                                             </div>
                                         </div>
-                                        <!--End Single Project Style1-->
-                                        <!--Start Single Project Style1-->
-                                        <div class="col-xl-6 col-lg-6 col-md-6">
-                                            <div class="single-project-style1">
-                                                <div class="img-holder">
-                                                    <img src="/assets/images/project/project-v3-2.jpg"
-                                                        alt="Awesome Image">
-                                                    <div class="overlay-content">
-                                                        <div class="inner">
-                                                            <h3><a href="#">Washroom<br> Wall Design</a></h3>
-                                                            <div class="readmore-button">
-                                                                <a href="#"><span class="flaticon-up-arrow"></span></a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                        <div class="col-xl-8">
+                                            <div class="text-box">
+                                                <p>
+                                                    Nuestra amplia base de clientes satisfechos respalda nuestra
+                                                    reputación como una elección confiable.
+                                                </p>
                                             </div>
                                         </div>
-                                        <!--End Single Project Style1-->
-
                                     </div>
                                 </div>
                             </div>
@@ -368,9 +273,12 @@
                                     <span class="flaticon-wallpaper-1"></span>
                                 </div>
                                 <div class="text">
-                                    <h3>Innovative Wall Designs</h3>
-                                    <p>There are many variations of passages of available but the majority have simply
-                                        free text suffered.</p>
+                                    <h3>Asesoramiento experto</h3>
+                                    <p>
+                                        Nuestro equipo altamente capacitado estará encantado de asesorarte en cada etapa
+                                        del proceso, desde la selección hasta la instalación, para asegurarnos de que
+                                        tomes la mejor decisión para tus espacios.
+                                    </p>
                                 </div>
                             </div>
                         </li>
@@ -380,9 +288,11 @@
                                     <span class="flaticon-wallpaper-2"></span>
                                 </div>
                                 <div class="text">
-                                    <h3>High Quality Wall Matterial</h3>
-                                    <p>There are many variations of passages of available but the majority have simply
-                                        free text suffered.</p>
+                                    <h3>Satisfacción garantizada</h3>
+                                    <p>
+                                        Nuestra amplia base de clientes satisfechos respalda nuestra reputación como una
+                                        elección confiable.
+                                    </p>
                                 </div>
                             </div>
                         </li>
@@ -685,13 +595,14 @@
             </div>
             <h2>Ve un poco más de nuestros trabajos</h2>
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
             <!--Start Single blog Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-blog-style1 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
+            <div class="col-xl-4 col-lg-6 col-md-6">
+                <div class="single-blog-style1 style1instyle2 wow fadeInLeft" data-wow-delay="100ms"
+                    data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/blog/blog-v1-1.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-1.jpg?=1" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -702,25 +613,23 @@
                     </div>
                     <div class="text-holder">
                         <ul class="meta-info">
-                            <li><span class="flaticon-user-1"></span><a href="#">Admin</a></li>
-                            <li><span class="flaticon-speech-bubble-comment"></span><a href="#">2 Comments</a></li>
+                            <li><span class="flaticon-user-1"></span><a href="#">Window Coverings</a></li>
+                            <li><span class="flaticon-speech-bubble-comment"></span><a href="#">Persianas</a></li>
                         </ul>
                         <h3 class="blog-title">
-                            <a href="/project-detail">How to protect your damage walls</a>
+                            <a href="/project-detail">Casa 1</a>
                         </h3>
-                        <div class="text">
-                            <p>There are not many of passages of lorem ipsum available alteration in some form.</p>
-                        </div>
                     </div>
                 </div>
             </div>
             <!--End Single blog Style1-->
             <!--Start Single blog Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-blog-style1 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+            <div class="col-xl-4 col-lg-6 col-md-6">
+                <div class="single-blog-style1 style1instyle2 wow fadeInLeft" data-wow-delay="300ms"
+                    data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/blog/blog-v1-2.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-2.jpg?=1" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -731,25 +640,23 @@
                     </div>
                     <div class="text-holder">
                         <ul class="meta-info">
-                            <li><span class="flaticon-user-1"></span><a href="#">Admin</a></li>
-                            <li><span class="flaticon-speech-bubble-comment"></span><a href="#">2 Comments</a></li>
+                            <li><span class="flaticon-user-1"></span><a href="#">Window Coverings</a></li>
+                            <li><span class="flaticon-speech-bubble-comment"></span><a href="#">Ventanas</a></li>
                         </ul>
                         <h3 class="blog-title">
-                            <a href="blog-single.html">Learn the right way to use wall sheet</a>
+                            <a href="/project-detail">Casa 2</a>
                         </h3>
-                        <div class="text">
-                            <p>There are not many of passages of lorem ipsum available alteration in some form.</p>
-                        </div>
                     </div>
                 </div>
             </div>
             <!--End Single blog Style1-->
             <!--Start Single blog Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-blog-style1 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
+            <div class="col-xl-4 col-lg-6 col-md-6">
+                <div class="single-blog-style1 style1instyle2 wow fadeInLeft" data-wow-delay="500ms"
+                    data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/blog/blog-v1-3.jpg" alt="Awesome Image">
+                            <img src="/assets/images/blog/blog-v1-3.jpg?=1" alt="Awesome Image">
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
@@ -760,21 +667,26 @@
                     </div>
                     <div class="text-holder">
                         <ul class="meta-info">
-                            <li><span class="flaticon-user-1"></span><a href="#">Admin</a></li>
-                            <li><span class="flaticon-speech-bubble-comment"></span><a href="#">2 Comments</a></li>
+                            <li><span class="flaticon-user-1"></span><a href="#">Window Coverings</a></li>
+                            <li><span class="flaticon-speech-bubble-comment"></span><a href="#">Persianas</a></li>
                         </ul>
                         <h3 class="blog-title">
-                            <a href="blog-single.html">Difference between wallpaper and sheets</a>
+                            <a href="/project-detail">Casa 3</a>
                         </h3>
-                        <div class="text">
-                            <p>There are not many of passages of lorem ipsum available alteration in some form.</p>
-                        </div>
                     </div>
                 </div>
             </div>
             <!--End Single blog Style1-->
+            <div class="col-md-4 text-center mt-5">
+                <div class="buttom-box">
+                    <a class="btn-one" href="/blog"><span class="txt">Ver más</span></a>
+                </div>
+            </div>
 
         </div>
+
+
+
     </div>
 </section>
 <!--End Blog Style1 Area-->
