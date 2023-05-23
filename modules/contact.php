@@ -30,7 +30,7 @@
                         <span class="flaticon-wallpaper-5"></span>
                     </div>
                     <div class="text">
-                        <h3>About</h3>
+                        <h3>Window Coverings</h3>
                         <p>Descubre nuestras persianas y cortinas de alta calidad.</p>
                     </div>
                 </div>
