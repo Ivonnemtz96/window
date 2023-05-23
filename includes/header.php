@@ -8,7 +8,10 @@
 
                 <div class="header-top-left pull-left">
                     <div class="logo">
-                        <a href="/"><img src="/assets/images/resources/logo.png" alt="window" title=""></a>
+                        <a style="color:white;" href="/">
+                            <!-- <img src="/assets/images/resources/logo.png" alt="window" title=""> -->
+                            LOGO
+                        </a>
                     </div>
                 </div>
                 <div class="header-top-right pull-right">
@@ -73,6 +76,7 @@
                                     <li><a href="/services">Servicios</a></li>
                                     <li><a href="/gallery">Galería</a></li>
                                     <li><a href="/blog">Blog</a></li>
+                                    <li><a href="/contact">Contáctanos</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -96,7 +100,7 @@
                         </ul>
                     </div>
                     <div class="button">
-                        <a class="btn-one style2" href="/contact"><span class="txt">Contáctanos</span></a>
+                        <a class="btn-one style2" href="/contact"><span class="txt">Agenda tu cita</span></a>
                     </div>
                 </div>
                 <!--End Header Right-->
@@ -112,8 +116,9 @@
             <div class="clearfix">
                 <!--Logo-->
                 <div class="logo float-left">
-                    <a href="/" class="img-responsive">
-                        <img src="/assets/images/resources/sticky-logo.png" alt="" title="">
+                    <a style="color: white;" href="/" class="img-responsive">
+                        LOGO
+                        <!-- <img src="/assets/images/resources/sticky-logo.png" alt="" title=""> -->
                     </a>
                 </div>
                 <!--Right Col-->
@@ -135,7 +140,7 @@
         <nav class="menu-box">
             <div class="nav-logo">
                 <a href="/">
-                    <img src="/assets/images/resources/mobilemenu-logo.png" alt="" title="">
+                    <!-- <img src="/assets/images/resources/mobilemenu-logo.png" alt="" title=""> -->
                 </a>
             </div>
             <div class="menu-outer">
