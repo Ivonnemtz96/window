@@ -84,7 +84,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 text-center">
-                                <img src="/assets/images/project/project-detail-video-gallery.jpg" alt="">
+                                <img  src="/assets/images/project/project-detail-video-gallery.jpg" alt="">
                             </div>
                             <div hidden class="col-xl-6">
                                 <div class="video-holder-box text-center"
