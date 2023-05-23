@@ -2,7 +2,7 @@
 <html lang="en">
 <?php
 $title = 'Inicio';
-$inicio = 'active';
+$inicio = 'current';
 include('includes/head.php');
 ?>
 
@@ -12,6 +12,7 @@ include('includes/head.php');
         <?php
             include('includes/header.php');
             include('modules/index.php');
+            include('includes/redes.php');
             include('includes/footer.php');
         ?>
     </div>

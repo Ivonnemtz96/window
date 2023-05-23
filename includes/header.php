@@ -71,12 +71,12 @@
                         <nav class="main-menu style1 navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a href="/">Inicio</a></li>
+                                    <li class="<?echo $inicio?>"><a href="/">Inicio</a></li>
                                     <!-- <li><a href="/">Productos</a></li> -->
-                                    <li><a href="/services">Servicios</a></li>
-                                    <li><a href="/gallery">Galería</a></li>
-                                    <li><a href="/blog">Blog</a></li>
-                                    <li><a href="/contact">Contáctanos</a></li>
+                                    <li class="<?echo $servicio?>"><a href="/services">Servicios</a></li>
+                                    <li class="<?echo $galeria?>"><a href="/gallery">Galería</a></li>
+                                    <li class="<?echo $blog?>"><a href="/blog">Blog</a></li>
+                                    <li class="<?echo $contacto?>"><a href="/contact">Contáctanos</a></li>
                                 </ul>
                             </div>
                         </nav>

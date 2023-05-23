@@ -107,7 +107,6 @@
                 </div>
             </div>
             <!--End Single blog Style1-->
-
             <!--Start Single blog Style1-->
             <div class="col-xl-4 col-lg-6 col-md-6">
                 <div class="single-blog-style1 style1instyle2 wow fadeInLeft" data-wow-delay="300ms"

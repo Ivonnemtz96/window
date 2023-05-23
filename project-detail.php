@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$title = 'Inicio';
-$inicio = 'active';
+$title = 'Detalles';
+$detalle = 'current';
 include('includes/head.php');
 ?>
 
@@ -12,6 +12,7 @@ include('includes/head.php');
         <?php
             include('includes/header.php');
             include('modules/project-detail.php');
+            include('includes/redes.php');
             include('includes/footer.php');
         ?>
     </div>

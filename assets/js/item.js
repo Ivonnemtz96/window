@@ -2,17 +2,22 @@
 // example images
 const posts = [];
 const images = [
-    '/assets/images/services/service-details-v1-1.jpg',
-    '/assets/images/services/service-details-v1-2.jpg',
-    '/assets/images/services/service-details-v1-3.jpg',
-    '/assets/images/services/service-details-v2-1.jpg',
-    '/assets/images/services/service-details-v3-1.jpg',
-    '/assets/images/services/service-details-v4-1.jpg',
-    '/assets/images/services/service-details-v5-1.jpg'
+    '/assets/images/services/01.jpg',
+    '/assets/images/services/02.jpg',
+    '/assets/images/services/03.jpg',
+    '/assets/images/services/04.jpg',
+    '/assets/images/services/05.jpg',
+    '/assets/images/services/06.jpg',
+    '/assets/images/services/07.jpg',
+    '/assets/images/services/08.jpg',
+    '/assets/images/services/09.jpg',
+    '/assets/images/services/10.jpg',
+    '/assets/images/services/11.jpg',
+    '/assets/images/services/12.jpg',
     
 ];
 let imageIndex = 0;
-for (let i = 1; i <= 10; i++) {
+for (let i = 1; i <= 12; i++) {
     let item = {
         id: i,
         title: `Post ${i}`,

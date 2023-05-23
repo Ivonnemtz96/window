@@ -155,16 +155,3 @@
 </section>
 <!-- End Service Style1 Area -->
 
-<!-- Correo:
-ventas_sjc.concretos@luxida.mx
-
-Contraseña:
-hhNzTmyDiA
-
-Servidor entrante:	
-mail.luxida.mx
-IMAP Port: 993
-
-Servidor de correo:	
-mail.luxida.mx
-SMTP Port: 465 -->
