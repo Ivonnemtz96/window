@@ -30,7 +30,7 @@
                 <div class="single-service-style1 text-center">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/services/service-v1-1.jpg" alt="">
+                            <img src="/assets/images/services/service-v1-1.jpg?=2" alt="">
                         </div>
                     </div>
                     <div class="text-holder">
@@ -50,7 +50,7 @@
                 <div class="single-service-style1 text-center">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/services/service-v1-2.jpg" alt="">
+                            <img src="/assets/images/services/service-v1-2.jpg?=2" alt="">
                         </div>
                     </div>
                     <div class="text-holder">
@@ -70,7 +70,7 @@
                 <div class="single-service-style1 text-center">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/services/service-v1-3.jpg" alt="">
+                            <img src="/assets/images/services/service-v1-3.jpg?=2" alt="">
                         </div>
                     </div>
                     <div class="text-holder">
@@ -91,7 +91,7 @@
                 <div class="single-service-style1 text-center">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/services/service-v1-4.jpg" alt="">
+                            <img src="/assets/images/services/service-v1-4.jpg?=1" alt="">
                         </div>
                     </div>
                     <div class="text-holder">
@@ -111,7 +111,7 @@
                 <div class="single-service-style1 text-center">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/services/service-v1-5.jpg" alt="">
+                            <img src="/assets/images/services/service-v1-5.jpg?=1" alt="">
                         </div>
                     </div>
                     <div class="text-holder">
@@ -154,3 +154,17 @@
     </div>
 </section>
 <!-- End Service Style1 Area -->
+
+<!-- Correo:
+ventas_sjc.concretos@luxida.mx
+
+Contraseña:
+hhNzTmyDiA
+
+Servidor entrante:	
+mail.luxida.mx
+IMAP Port: 993
+
+Servidor de correo:	
+mail.luxida.mx
+SMTP Port: 465 -->
