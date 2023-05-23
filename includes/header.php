@@ -69,10 +69,10 @@
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
                                     <li class="current"><a href="/">Inicio</a></li>
-                                    <li><a href="/">Productos</a></li>
-                                    <li><a href="/">Servicios</a></li>
-                                    <li><a href="/">Galería</a></li>
-                                    <li><a href="/">Blog</a></li>
+                                    <!-- <li><a href="/">Productos</a></li> -->
+                                    <li><a href="/services">Servicios</a></li>
+                                    <li><a href="/gallery">Galería</a></li>
+                                    <li><a href="/blog">Blog</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -96,7 +96,7 @@
                         </ul>
                     </div>
                     <div class="button">
-                        <a class="btn-one style2" href="#"><span class="txt">Contáctanos</span></a>
+                        <a class="btn-one style2" href="/contact"><span class="txt">Contáctanos</span></a>
                     </div>
                 </div>
                 <!--End Header Right-->
