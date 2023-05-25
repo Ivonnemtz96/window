@@ -92,7 +92,7 @@
                         </ul>
                         <div class="bottom-box">
                             <div class="icon">
-                                <span class="flaticon-armchair"></span>
+                            <img style="width: 4rem;" src="/assets/images/icon/persianas.png" alt="">
                             </div>
                             <div class="title">
                                 <h3>Experiencia de más de 30 años</h3>
@@ -109,7 +109,7 @@
                     <div class="main-image">
                         <img src="/assets/images/about/about-1.png?=1" alt="Awesome Image">
                         <div class="icon-box thm-bgclr paroller-2">
-                            <span class="flaticon-wallpaper"></span>
+                            <img style="width: 4rem;" src="/assets/images/icon/window.png" alt="">
                             <h3>Desde<br> 1993</h3>
                         </div>
                     </div>
@@ -270,7 +270,7 @@
                         <li>
                             <div class="design-single-block">
                                 <div class="icon thm-clr">
-                                    <span class="flaticon-wallpaper-1"></span>
+                                <img style="width: 5rem;" src="/assets/images/icon/asesor.png" alt="">
                                 </div>
                                 <div class="text">
                                     <h3>Asesoramiento experto</h3>
@@ -285,7 +285,7 @@
                         <li>
                             <div class="design-single-block">
                                 <div class="icon thm-clr">
-                                    <span class="flaticon-wallpaper-2"></span>
+                                <img style="width: 5rem;" src="/assets/images/icon/cortinas.png" alt="">
                                 </div>
                                 <div class="text">
                                     <h3>Satisfacción garantizada</h3>
