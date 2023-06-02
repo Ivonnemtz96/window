@@ -25,7 +25,7 @@
                             <img src="/upload/portada/'.date('Y/m', strtotime($row['blog_fecha'])).'/'.$row['blog_portada'].'.jpg" alt="Awesome Image">
                         </div>
                         <div class="overlay-icon">
-                            <a href="/project-detail.php?id='.$row['blog_id'].'"><span class="flaticon-plus"></span></a>
+                            <a href="/project-detail2.php?id='.$row['blog_id'].'"><span class="flaticon-plus"></span></a>
                         </div>
                         <div class="date-box">
                             <h5>'.$row['blog_fecha'].'</h5>
@@ -34,11 +34,11 @@
                 </div>
                 <div class="text-holder">
                     <ul class="meta-info">
-                        <li><span class="flaticon-user-1"></span><a href="/project-detail.php?id='.$row['blog_id'].'">'.$row['blog_autor'].'</a></li>
-                        <li><span class="flaticon-user-1"></span><a href="/project-detail.php?id='.$row['blog_id'].'">'.$row['blog_cat'].'</a></li>
+                        <li><span class="flaticon-user-1"></span><a href="/project-detail2.php?id='.$row['blog_id'].'">'.$row['blog_autor'].'</a></li>
+                        <li><span class="flaticon-user-1"></span><a href="/project-detail2.php?id='.$row['blog_id'].'">'.$row['blog_cat'].'</a></li>
                     </ul>
                     <h3 class="blog-title">
-                        <a href="/project-detail.php?id='.$row['blog_id'].'">'.$row['blog_nom'].'</a>
+                        <a href="/project-detail2.php?id='.$row['blog_id'].'">'.$row['blog_nom'].'</a>
                     </h3>
                 </div>
             </div>
