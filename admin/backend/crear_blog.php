@@ -65,7 +65,8 @@ if (isset($_POST["submit"])) {
             // Preparar la consulta SQL con marcadores de posición
 
             $sql = "INSERT INTO blog (blog_nom, blog_nomEng, blog_autor, blog_cat, blog_lugar, blog_fecha, blog_portada, blog_desc, blog_descEng) 
-                      VALUES ($blog_nom, $blog_nomEng, $blog_autor, $blog_cat, $blog_lugar, $blog_fecha, $codigo, $blog_desc, $blog_descEng)";
+                      VALUES ('$blog_nom', '$blog_nomEng', '$blog_autor', '$blog_cat', '$blog_lugar', '$blog_fecha', '$codigo', '$blog_desc', '$blog_descEng')";
+
             
             // Ejecutar la consulta
             if ($conn->query($sql) === true) {
