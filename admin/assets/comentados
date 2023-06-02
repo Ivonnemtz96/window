@@ -104,3 +104,41 @@ if (isset($_POST['register'])) {
 
 $conn->close();
 ?>
+
+
+<!-- subida exitosa pero no guarda en servidor -->
+if (isset($_FILES['blog_portada']) && $_FILES['blog_portada']['error'] === UPLOAD_ERR_OK) {
+        
+        $imageTmpName = $_FILES['blog_portada']['tmp_name'];
+        $ruta = '../../upload/portada/'.$year.'/'.$mesr.'';
+        
+        $codigo = GeraHash(10); // LO USAMOS PARA EL NOMBRE DE LA FOTO
+       
+
+        // SI LA CARPETA NO EXISTE, LA CREAMOS
+        if (!file_exists($ruta)) {
+            mkdir($ruta, 0777, true);
+        }
+
+        $archivo_subido = $ruta . '/' . $codigo . '.jpg';
+        // move_uploaded_file($imageTmpName, $archivo_subido);
+
+        if (move_uploaded_file($imageTmpName, $archivo_subido)) {
+            // La imagen se ha movido correctamente, puedes guardar la ruta en la base de datos
+            // Preparar la consulta SQL con marcadores de posición
+
+            $sql = "INSERT INTO blog (blog_nom, blog_nomEng, blog_autor, blog_cat, blog_lugar, blog_fecha, blog_portada, blog_desc, blog_descEng) 
+                      VALUES ('$blog_nom', '$blog_nomEng', '$blog_autor', '$blog_cat', '$blog_lugar', '$blog_fecha', '$codigo', '$blog_desc', '$blog_descEng')";
+
+            
+            // Ejecutar la consulta
+            if ($conn->query($sql) === true) {
+                echo "Archivo subido correctamente.";
+            } else {
+                echo "Ha ocurrido un error al subir el archivo, por favor reintente nuevamente.";
+            }
+        } else {
+            // Hubo un error al mover la imagen
+            echo "Por favor, seleccione una imagen para subir.";
+        }
+    }

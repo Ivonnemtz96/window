@@ -52,13 +52,13 @@ if (isset($_REQUEST['submit']) && $_REQUEST['submit'] != "") {
         }
 
         $codigo = GeraHash(10);
-        $ruta = '../../upload/unidades/' . $anor . '/' . $mesr . '';
+        $ruta = '../../upload/portada/'.$year.'/'.$mesr.'';
 
         if (!file_exists($ruta)) {
             mkdir($ruta, 0777, true);
         }
 
-        $archivo_subido = $ruta . '/' . $codigo . '.jpg';
+        $archivo_subido = $ruta.'/'.$codigo.'.jpg';
         if (move_uploaded_file($thumb, $archivo_subido)) {
             // Procesar los datos y realizar las acciones necesarias
             // ...

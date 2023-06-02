@@ -40,27 +40,40 @@ if (isset($_POST["submit"])) {
     $blog_autor = $_POST['blog_autor'];
     $blog_cat = $_POST['blog_cat'];
     $blog_lugar = $_POST['blog_lugar'];
-    $blog_fecha = date('Y-m-d');
+    $blog_fecha = date('Y-m-d H:i:s');
     $blog_desc = $_POST['blog_desc'];
     $blog_descEng = $_POST['blog_descEng'];
 
+    
     if (isset($_FILES['blog_portada']) && $_FILES['blog_portada']['error'] === UPLOAD_ERR_OK) {
         
         $imageTmpName = $_FILES['blog_portada']['tmp_name'];
-        $ruta = '../../upload/portada/'.$year.'/'.$mesr.'';
         
-        $codigo = GeraHash(10); // LO USAMOS PARA EL NOMBRE DE LA FOTO
-       
-
-        // SI LA CARPETA NO EXISTE, LA CREAMOS
-        if (!file_exists($ruta)) {
-            mkdir($ruta, 0777, true);
+        // Validar tipo de archivo permitido
+        $allowedTypes = ['image/jpeg', 'image/png'];
+        if (!in_array($_FILES['blog_portada']['type'], $allowedTypes)) {
+            echo "El tipo de archivo no está permitido.";
+            exit;
         }
+    
+        // Validar tamaño máximo del archivo (por ejemplo, 2MB)
+        $maxFileSize = 2 * 1024 * 1024; // 2MB
+        if ($_FILES['blog_portada']['size'] > $maxFileSize) {
+            echo "El tamaño del archivo excede el límite permitido.";
+            exit;
+        }
+        $codigo = GeraHash(10); // LO USAMOS PARA EL NOMBRE DE LA FOTO
+        $ruta = '../upload/portada/'.$year.'/'.$mesr.'';
 
-        $archivo_subido = $ruta . '/' . $codigo . '.jpg';
+       //SI LA CARPETA NO EXISTE LA CREAMOS
+       if(!file_exists($ruta)) {
+        mkdir($ruta, 0777, true);
+    }
+
+        $archivo_subido = ''.$ruta.'/'.$codigo .'.jpg';
         // move_uploaded_file($imageTmpName, $archivo_subido);
 
-        if (copy($imageTmpName, $archivo_subido)) {
+        if (move_uploaded_file($imageTmpName, $archivo_subido)) {
             // La imagen se ha movido correctamente, puedes guardar la ruta en la base de datos
             // Preparar la consulta SQL con marcadores de posición
 
@@ -79,6 +92,7 @@ if (isset($_POST["submit"])) {
             echo "Por favor, seleccione una imagen para subir.";
         }
     }
+    
 }
 
 // Cerrar la conexión a la base de datos
