@@ -26,6 +26,7 @@
 <section id="blog-area" class="blog-page2-area">
     <div class="container">
         <div class="row">
+            <img src="" alt="">
             <!--Start Single blog Style1-->
             <?
             include('backend/blog_conf.php');

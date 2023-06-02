@@ -1,9 +1,3 @@
-<?
-    ini_set('display_errors', 1);
-    ini_set('display_startup_errors', 1);
-    error_reporting(E_ALL);
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -17,7 +11,7 @@ include('includes/head.php');
     <div class="boxed_wrapper ltr">
         <?php
             include('includes/header.php');
-            include('modules/blog.php');
+            include('modules/blog2.php');
             include('includes/redes.php');
             include('includes/footer.php');
         ?>

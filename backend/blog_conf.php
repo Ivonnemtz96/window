@@ -2,6 +2,14 @@
     // Incluir archivo de conexión a la base de datos
     require_once($_SERVER["DOCUMENT_ROOT"]."/admin/backend/config.php");
 
+    $timezone = new DateTimeZone('America/Mexico_City');
+    $fecha = new DateTime('now', $timezone);
+    $fechaFormateada = $fecha->format('Y-m-d H:i:s');
+
+    setlocale(LC_ALL, 'es_MX');
+    $mesr = $fecha->format('m');
+    $year = $fecha->format('Y');
+
     // Obtener los artículos del blog desde la base de datos
     $query = "SELECT * FROM blog ORDER BY blog_fecha DESC";
     $resultado = mysqli_query($conn, $query);
@@ -12,8 +20,10 @@
             <div class="single-blog-style1 style1instyle2 wow fadeInLeft" data-wow-delay="100ms"
                 data-wow-duration="1500ms">
                 <div class="img-holder">
-                    <div class="inner">
-                        <img src="/assets/images/blog/blog-v1-1.jpg" alt="Awesome Image">
+                    <div class="inner" >
+                        <div class="container">
+                            <img src="/upload/portada/'.date('Y/m', strtotime($row['blog_fecha'])).'/'.$row['blog_portada'].'.jpg" alt="Awesome Image">
+                        </div>
                         <div class="overlay-icon">
                             <a href="/project-detail.php?id='.$row['blog_id'].'"><span class="flaticon-plus"></span></a>
                         </div>
