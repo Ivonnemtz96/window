@@ -17,13 +17,16 @@
             <ul id="main-menu" class="metismenu">
                 <li class="g_heading">Main</li>
                 <li class="active">
-                    <a href="index.html"><i class="ti-home"></i><span>Dashboard</span></a>
+                    <a href="/"><i class="ti-home"></i><span>Dashboard</span></a>
                 </li>
                 <li>
                     <a href="ui-elements.html"><i class="ti-vector"></i><span>UI Elements</span></a>
                 </li>
                 <li>
                     <a href="/admin/blog"><i class="ti-vector"></i><span>Nuevo blog</span></a>
+                </li>
+                <li>
+                    <a href="/admin/entradas"><i class="ti-vector"></i><span>Ver entradas del blog</span></a>
                 </li>
                 <li class="g_heading">Application</li>
                 <li>

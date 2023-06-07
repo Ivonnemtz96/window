@@ -29,7 +29,7 @@
             <img src="" alt="">
             <!--Start Single blog Style1-->
             <?
-            include('backend/blog_conf.php');
+                include('backend/blog_conf.php');
             ?>
             <!--End Single blog Style1-->
         </div>
