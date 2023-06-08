@@ -56,7 +56,7 @@
                     <div class="row ">
                         <div class="col-10">
                             <button class="btn btn-primary mt-4 mb-4">Editar</button>  
-                            <button class="btn btn-primary mt-4 mb-4">Galería</button>  
+                            <a href="/admin/galeria?blogId='.$row['blog_id'].'" style="color:#fff;" class="btn btn-primary mt-4 mb-4">Galería</a>  
                             <button class="btn btn-primary mt-4 mb-4">Borrar</button>  
                         </div>
                     </div>
