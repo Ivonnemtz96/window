@@ -58,38 +58,6 @@
                         <h2>'.$row['blog_nom'].'</h2>
                         <p>'.$row['blog_desc'].'</p>
                     </div>
-
-                    <div hidden class="project-detail-text-2">
-                        <div class="row">
-                            <div class="col-xl-6">
-                                <div class="text-box">
-                                    <h2>Subtitulo</h2>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo adipisci fugit
-                                        modi ut aperiam qui mollitia voluptatum magni asperiores. Illo beatae quisquam
-                                        ipsa soluta veniam. Ut assumenda possimus laudantium doloribus expedita rerum
-                                        qui ipsum quasi in mollitia alias dolor quo sunt ex impedit sit quibusdam, natus
-                                        illo corrupti praesentium! Enim earum unde laboriosam nihil, accusamus corrupti
-                                        amet aperiam nisi temporibus.</p>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 text-center">
-                                <img  src="/assets/images/project/project-detail-video-gallery.jpg" alt="">
-                            </div>
-                            <div hidden class="col-xl-6">
-                                <div class="video-holder-box text-center"
-                                    style="background-image: url(/assets/images/project/project-detail-video-gallery.jpg)">
-                                    <div class="icon thm-bgclr wow zoomIn" data-wow-delay="300ms"
-                                        data-wow-duration="1500ms">
-                                        <!-- <a class="video-popup thm-bgclr" title="Wazors Video Gallery"
-                                            href="https://www.youtube.com/watch?v=p25gICT63ek">
-                                            <span class="icon-play-button"></span>
-                                        </a> -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
             </div>
            ';

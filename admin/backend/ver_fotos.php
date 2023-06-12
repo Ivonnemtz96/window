@@ -11,7 +11,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="card">
                     <div class="body">
-                        <img class="img-fluid" src="/upload/galeria/'.date('Y/m', strtotime($row['galeria_fecha'])).'/'.$row['galeria_cod'].'.jpg);"
+                        <img class="img-fluid" src="/upload/galeria/'.date('Y/m', strtotime($row['galeria_fecha'])).'/'.$row['galeria_cod'].'.jpg"
                             alt="About the image">
                     </div>
                 </div>

@@ -26,8 +26,6 @@
                                 </div>
                             </div>
                         </form>
-
-
                         <div class="row clearfix mt-5">
                             <?
                                 require_once($_SERVER["DOCUMENT_ROOT"]."/admin/backend/ver_fotos.php");
