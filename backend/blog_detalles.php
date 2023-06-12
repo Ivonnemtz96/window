@@ -1,8 +1,8 @@
 <?
- // Incluir archivo de conexión a la base de datos
+    // Incluir archivo de conexión a la base de datos
     require_once($_SERVER["DOCUMENT_ROOT"]."/admin/backend/config.php");
 
- //La zona horaria
+    //La zona horaria
     $timezone = new DateTimeZone('America/Mexico_City');
     $fecha = new DateTime('now', $timezone);
     $fechaFormateada = $fecha->format('Y-m-d H:i:s');
@@ -66,10 +66,11 @@
     }
     else {
         echo "No se encontró la entrada del blog.";
+
     }
    
     // Cierra la conexión a la base de datos
-    $conn->close();
+    $result->close();
 
 
 ?>

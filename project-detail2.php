@@ -1,6 +1,8 @@
 <?
 // Incluir archivo de conexión a la base de datos
 require_once($_SERVER["DOCUMENT_ROOT"]."/admin/backend/config.php");
+require_once($_SERVER["DOCUMENT_ROOT"]."/backend/validar_entrada.php");
+
 ?>
 <!DOCTYPE html>
 <html lang="en">

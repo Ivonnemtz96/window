@@ -1,5 +1,4 @@
 <?php
-
     // Obtener los artículos del blog desde la base de datos
     $blogId = $_GET['blogId'];
     $query = "SELECT * FROM galeria WHERE id_blog = '$blogId'";
