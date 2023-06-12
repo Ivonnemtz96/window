@@ -14,7 +14,6 @@
                     <div class="title wow slideInUp animated" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <h2><?echo $blog_nom;?></h2>
                     </div>
-                    
                 </div>
             </div>
         </div>
@@ -25,25 +24,13 @@
 <!-- Start project details Area -->
 <section class="project-details-area">
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
             <?
             include('backend/blog_detalles.php');
             ?>
-
             <div class="project-detail-text-2">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="text-box">
-                            <h2>Subtitulo</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo adipisci fugit
-                                modi ut aperiam qui mollitia voluptatum magni asperiores. Illo beatae quisquam
-                                ipsa soluta veniam. Ut assumenda possimus laudantium doloribus expedita rerum
-                                qui ipsum quasi in mollitia alias dolor quo sunt ex impedit sit quibusdam, natus
-                                illo corrupti praesentium! Enim earum unde laboriosam nihil, accusamus corrupti
-                                amet aperiam nisi temporibus.</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 text-center">
+                <div class="row justify-content-center">
+                    <div class="col-xl-10 text-center alig">
                         <div class="fotorama">
                             <?
                                 include('backend/vistaBlog_Gal.php');
