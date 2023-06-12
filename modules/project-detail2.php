@@ -31,7 +31,7 @@
             <div class="project-detail-text-2">
                 <div class="row justify-content-center">
                     <div class="col-xl-10 text-center alig">
-                        <div class="fotorama">
+                        <div class="fotorama" data-width="1200" data-height="700">
                             <?
                                 include('backend/vistaBlog_Gal.php');
                             ?>

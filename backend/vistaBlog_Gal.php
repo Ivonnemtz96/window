@@ -28,7 +28,7 @@ if ($result->num_rows > 0) {
     while ($row = $result->fetch_assoc()) {
         // Mostrar la imagen
         echo '
-            <img  src="/upload/galeria/'.date('Y/m', strtotime($row['galeria_fecha'])).'/'.$row['galeria_cod'].'.jpg" alt="">
+            <img class="img-fluid" src="/upload/galeria/'.date('Y/m', strtotime($row['galeria_fecha'])).'/'.$row['galeria_cod'].'.jpg" alt="">
         ';
     }
 }
