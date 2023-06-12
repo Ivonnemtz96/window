@@ -11,9 +11,10 @@
                             <li class="active">Detalles de proyecto</li>
                         </ul>
                     </div>
-                    <?
-                        include('backend/blog_nombre.php');
-                    ?>
+                    <div class="title wow slideInUp animated" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                        <h2><?echo $blog_nom;?></h2>
+                    </div>
+                    
                 </div>
             </div>
         </div>
