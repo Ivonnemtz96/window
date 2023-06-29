@@ -5,12 +5,12 @@
         <div class="banner-carousel owl-theme owl-carousel">
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(/assets/images/slides/slide-v1-1.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/assets/images/slides/1.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <h3>Descubre una amplia variedad de cortinas y persianas de alta calidad</h3>
                         <div class="big-title">
-                            <h2>Window Coverings <br> By Victoria Burques</h2>
+                            <h2>Window Coverings <br> By Victoria Burquez</h2>
                         </div>
                         <div class="btns-box">
                             <a class="btn-one style2" href="#"><span class="txt">Ver más</span></a>
@@ -20,7 +20,7 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(/assets/images/slides/slide-v1-2.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/assets/images/slides/2.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <h3>Nuestros 30 años de exeriencia nos respaldan</h3>
@@ -35,7 +35,7 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(/assets/images/slides/slide-v1-3.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/assets/images/slides/3.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <h3>Somos una empresa comprometida con la calidad</h3>
@@ -84,11 +84,11 @@
                             </p>
                         </div>
                         <ul>
-                            <li><span class="flaticon-tick"></span>Productos de alta calidad</li>
+                            <li><span class="flaticon-tick"></span>Servicio</li>
                             <li><span class="flaticon-tick"></span>
-                                Expertos altamente capacitados
+                                Calidad
                             </li>
-                            <li><span class="flaticon-tick"></span>Comprometidos a superar tus expectativas</li>
+                            <li><span class="flaticon-tick"></span>Complejidad</li>
                         </ul>
                         <div class="bottom-box">
                             <div class="icon">
@@ -129,7 +129,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="single-featured-style1 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="/assets/images/resources/featured-2.jpg?=1" alt="">
+                        <img src="/assets/images/resources/featured-1.jpg?=2" alt="">
                         <div class="title">
                             <h3><a href="#">Mejores estándares<br> de calidad</a></h3>
                         </div>
@@ -141,7 +141,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="single-featured-style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="/assets/images/resources/featured-1.jpg?=1" alt="">
+                        <img src="/assets/images/resources/featured-2.jpg?=2" alt="">
                         <div class="title">
                             <h3><a href="#">Productos que <br> se adaptan a ti</a></h3>
                         </div>

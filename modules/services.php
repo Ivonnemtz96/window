@@ -30,15 +30,15 @@
                 <div class="single-service-style1 text-center">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/assets/images/services/service-v1-1.jpg?=2" alt="">
+                            <img src="/assets/images/services/service-v1-1.jpg?=1" alt="">
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="inner-text">
-                            <h3><a href="ser-room-wallpapers.html">Persianas</a></h3>
+                            <h3><a href="#">Persianas</a></h3>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, ab!</p>
                             <div class="readmore-button">
-                                <a href="ser-room-wallpapers.html"><span class="flaticon-up-arrow"></span></a>
+                                <a href="#"><span class="flaticon-up-arrow"></span></a>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                     </div>
                     <div class="text-holder">
                         <div class="inner-text">
-                            <h3><a href="ser-wall-painting.html">Cortinas y tapicería</a></h3>
+                            <h3><a href="ser-wall-painting.html">Cortinas</a></h3>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, ab!</p>
                             <div class="readmore-button">
                                 <a href="ser-wall-painting.html"><span class="flaticon-up-arrow"></span></a>
@@ -96,7 +96,7 @@
                     </div>
                     <div class="text-holder">
                         <div class="inner-text">
-                            <h3><a href="ser-interior-design.html">Mantenimientos</a></h3>
+                            <h3><a href="ser-interior-design.html">Tapicería</a></h3>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, ab!</p>
                             <div class="readmore-button">
                                 <a href="ser-interior-design.html"><span class="flaticon-up-arrow"></span></a>
@@ -107,45 +107,7 @@
             </div>
             <!--End Single Service Style1-->
             <!--Start Single Service Style1-->
-            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-                <div class="single-service-style1 text-center">
-                    <div class="img-holder">
-                        <div class="inner">
-                            <img src="/assets/images/services/service-v1-5.jpg?=1" alt="">
-                        </div>
-                    </div>
-                    <div class="text-holder">
-                        <div class="inner-text">
-                            <h3><a href="ser-pvc-panels.html">Instalación gratis</a></h3>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, ab!</p>
-                            <div class="readmore-button">
-                                <a href="ser-pvc-panels.html"><span class="flaticon-up-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Service Style1-->
-            <!--Start Single Service Style1-->
-            <!-- <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
-                <div class="single-service-style1 text-center">
-                    <div class="img-holder">
-                        <div class="inner">
-                            <img src="/assets/images/services/service-v1-6.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="text-holder">
-                        <div class="inner-text">
-                            <h3><a href="ser-outdoor-designs.html">Outdoor Designs</a></h3>
-                            <p>There are not many of passages of lorem ipsum avail alteration in some form.</p>
-                            <div class="readmore-button">
-                                <a href="ser-outdoor-designs.html"><span class="flaticon-up-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-            <!--End Single Service Style1-->
+            
 
 
 
