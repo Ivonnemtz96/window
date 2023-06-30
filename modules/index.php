@@ -741,15 +741,15 @@
                         <li class="single-fact-counter wow fadeInUp text-center" data-wow-delay="500ms"
                             data-wow-duration="1500ms">
                             <div class="count-box">
-                                <h2>
-                                    <span class="timer" data-from="1" data-to="2" data-speed="5000"
-                                        data-refresh-interval="50">2</span>
+                                <h2>+
+                                    <span class="timer" data-from="1" data-to="20" data-speed="5000"
+                                        data-refresh-interval="50">20</span>
                                     <span class="icon">
                                         <i class="flaticon-plus"></i>
                                     </span>
                                 </h2>
                                 <div class="sub-title">
-                                    <h5>Sucursales</h5>
+                                    <h5>Tipos de productos</h5>
                                 </div>
                             </div>
                         </li>

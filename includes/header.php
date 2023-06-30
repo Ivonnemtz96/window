@@ -9,8 +9,7 @@
                 <div class="header-top-left pull-left">
                     <div class="logo">
                         <a style="color:white;" href="/">
-                            <!-- <img src="/assets/images/resources/logo.png" alt="window" title=""> -->
-                            LOGO
+                            <img style="width: 8rem;" src="/assets/images/resources/logo2.png" alt="window" title="">
                         </a>
                     </div>
                 </div>
@@ -32,7 +31,7 @@
                                 </div>
                                 <div class="text">
                                     <p>Correo</p>
-                                    <h4><a href="mailto:info@windowcovering.com">info@windowcovering.com</a></h4>
+                                    <h4><a href="mailto:vgzburquez@windowcoveringsbcs.com">vgzburquez@windowcoveringsbcs.com</a></h4>
                                 </div>
                             </li>
                             <li>
@@ -73,6 +72,7 @@
                                 <ul class="navigation clearfix">
                                     <li class="<?echo $inicio?>"><a href="/">Inicio</a></li>
                                     <!-- <li><a href="/">Productos</a></li> -->
+                                    <li class="<?echo $nosotros?>"><a href="/about">Nosotros</a></li>
                                     <li class="<?echo $servicio?>"><a href="/services">Servicios</a></li>
                                     <li class="<?echo $galeria?>"><a href="/gallery">Galería</a></li>
                                     <li class="<?echo $blog?>"><a href="/blogs">Blog</a></li>
@@ -92,10 +92,12 @@
                     <div class="header-social-link">
                         <ul>
                             <li>
-                                <a href="https://www.facebook.com/SenzPersianasLPZ/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="https://www.facebook.com/SenzPersianasLPZ/" target="_blank"><i
+                                        class="fa fa-facebook" aria-hidden="true"></i></a>
                             </li>
                             <li>
-                                <a href="https://instagram.com/senzlapaz?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                <a href="https://instagram.com/senzlapaz?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><i
+                                        class="fa fa-instagram" aria-hidden="true"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -117,8 +119,7 @@
                 <!--Logo-->
                 <div class="logo float-left">
                     <a style="color: white;" href="/" class="img-responsive">
-                        LOGO
-                        <!-- <img src="/assets/images/resources/sticky-logo.png" alt="" title=""> -->
+                        <img style="width: 8rem;" src="/assets/images/resources/logo2.png" alt="window" title="">
                     </a>
                 </div>
                 <!--Right Col-->
@@ -140,7 +141,7 @@
         <nav class="menu-box">
             <div class="nav-logo">
                 <a href="/">
-                    <!-- <img src="/assets/images/resources/mobilemenu-logo.png" alt="" title=""> -->
+                <img style="width: 8rem;" src="/assets/images/resources/logo2.png" alt="window" title="">
                 </a>
             </div>
             <div class="menu-outer">
@@ -149,8 +150,10 @@
             <!--Social Links-->
             <div class="social-links">
                 <ul class="clearfix">
-                    <li><a href="https://www.facebook.com/SenzPersianasLPZ/" target="_blank"><span class="fab fa fa-facebook-square"></span></a></li>
-                    <li><a href="https://instagram.com/senzlapaz?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><span class="fab fa fa-instagram"></span></a></li>
+                    <li><a href="https://www.facebook.com/SenzPersianasLPZ/" target="_blank"><span
+                                class="fab fa fa-facebook-square"></span></a></li>
+                    <li><a href="https://instagram.com/senzlapaz?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><span
+                                class="fab fa fa-instagram"></span></a></li>
                 </ul>
             </div>
         </nav>
