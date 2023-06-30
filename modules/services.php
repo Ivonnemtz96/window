@@ -112,3 +112,30 @@
 </section>
 <!-- End Service Style1 Area -->
 
+
+<!--Start Booking Area-->
+<section class="booking-area" style="background-color: #d9a95b42;">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-5 col-lg-4">
+                <div class="booking-number-box">
+
+                    <div class="title">
+                        <img style="width: 19rem;" src="/assets/images/folleto.png" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-7 col-lg-8">
+                <div class="booking-content-box">
+                    <p>¡Descubre nuestro increíble catálogo de productos y despierta tu pasión por el estilo y la
+                        calidad! No te quedes atrás, descarga ahora mismo y sumérgete en un mundo de opciones
+                        cautivadoras para transformar tu hogar. </p>
+                    <div class="buttom-box" style="margin-top: 3rem;">
+                        <button class="btn-one" onclick="descargar()"><span class="txt">Descargar PDF</span></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Booking Area-->

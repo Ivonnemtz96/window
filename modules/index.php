@@ -92,7 +92,7 @@
                         </ul>
                         <div class="bottom-box">
                             <div class="icon">
-                            <img style="width: 4rem;" src="/assets/images/icon/persianas.png" alt="">
+                                <img style="width: 4rem;" src="/assets/images/icon/persianas.png" alt="">
                             </div>
                             <div class="title">
                                 <h3>Experiencia de más de 30 años</h3>
@@ -169,7 +169,7 @@
                         </li>
                     </ul>
                     <div class="buttom-box">
-                        <a class="btn-one" href="#"><span class="txt">Cotiza gratis</span></a>
+                        <button class="btn-one" onclick="window.location.href='/contact'"><span class="txt">Cotiza gratis</span></button>
                     </div>
                 </div>
             </div>
@@ -270,7 +270,7 @@
                         <li>
                             <div class="design-single-block">
                                 <div class="icon thm-clr">
-                                <img style="width: 5rem;" src="/assets/images/icon/asesor.png" alt="">
+                                    <img style="width: 5rem;" src="/assets/images/icon/asesor.png" alt="">
                                 </div>
                                 <div class="text">
                                     <h3>Asesoramiento experto</h3>
@@ -285,7 +285,7 @@
                         <li>
                             <div class="design-single-block">
                                 <div class="icon thm-clr">
-                                <img style="width: 5rem;" src="/assets/images/icon/cortinas.png" alt="">
+                                    <img style="width: 5rem;" src="/assets/images/icon/cortinas.png" alt="">
                                 </div>
                                 <div class="text">
                                     <h3>Satisfacción garantizada</h3>
@@ -779,42 +779,29 @@
     </div>
 </section>
 <!--End Fact Counter Area-->
-
-<!--Start Partner Area-->
-<section class="partner-area">
-    <div class="border-top"></div>
+<!--Start Booking Area-->
+<section class="booking-area" style="background-color: #d9a95b42;">
     <div class="container">
         <div class="row">
-            <div class="col-xl-12">
-                <div class="partner-box">
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/assets/images/brand/brand-1.png" alt="Awesome Image"></a>
+            <div class="col-xl-5 col-lg-4">
+                <div class="booking-number-box">
+
+                    <div class="title">
+                        <img style="width: 19rem;" src="/assets/images/folleto.png" alt="">
                     </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/assets/images/brand/brand-2.png" alt="Awesome Image"></a>
+                </div>
+            </div>
+            <div class="col-xl-7 col-lg-8">
+                <div class="booking-content-box">
+                    <p>¡Descubre nuestro increíble catálogo de productos y despierta tu pasión por el estilo y la
+                        calidad! No te quedes atrás, descarga ahora mismo y sumérgete en un mundo de opciones
+                        cautivadoras para transformar tu hogar. </p>
+                    <div class="buttom-box" style="margin-top: 3rem;">
+                        <button class="btn-one" onclick="descargar()"><span class="txt">Descargar PDF</span></button>
                     </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/assets/images/brand/brand-3.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/assets/images/brand/brand-4.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/assets/images/brand/brand-5.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!--End Partner Area-->
+<!--End Booking Area-->

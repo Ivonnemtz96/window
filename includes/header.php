@@ -73,7 +73,7 @@
                                     <li class="<?echo $inicio?>"><a href="/">Inicio</a></li>
                                     <!-- <li><a href="/">Productos</a></li> -->
                                     <li class="<?echo $nosotros?>"><a href="/about">Nosotros</a></li>
-                                    <li class="<?echo $servicio?>"><a href="/services">Servicios</a></li>
+                                    <li class="<?echo $servicios?>"><a href="/services">Servicios</a></li>
                                     <li class="<?echo $galeria?>"><a href="/gallery">Galería</a></li>
                                     <li class="<?echo $blog?>"><a href="/blogs">Blog</a></li>
                                     <li class="<?echo $contacto?>"><a href="/contact">Contáctanos</a></li>

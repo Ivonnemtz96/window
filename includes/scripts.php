@@ -44,4 +44,12 @@
 <!-- icons de redes sociales -->
 <script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
 
-
+<!-- Descargar archivos -->
+<script>
+function descargar() {
+    var link = document.createElement('a');
+    link.href = '/assets/images/CATALALOGO ENROLLABLE SHEER SENZ.pdf';
+    link.download = 'CATALALOGO ENROLLABLE SHEER SENZ.pdf';
+    link.click();
+}
+</script>
