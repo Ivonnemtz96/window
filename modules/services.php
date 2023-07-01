@@ -36,7 +36,10 @@
                     <div class="text-holder">
                         <div class="inner-text">
                             <h3><a href="#">Persianas</a></h3>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, ab!</p>
+                            <p>
+                                Descubre nuestra fascinante colección de persianas que elevarán la estética de tu hogar
+                                a niveles asombrosos.
+                            </p>
                             <div class="readmore-button">
                                 <a href="#"><span class="flaticon-up-arrow"></span></a>
                             </div>
@@ -56,7 +59,10 @@
                     <div class="text-holder">
                         <div class="inner-text">
                             <h3><a href="ser-wall-painting.html">Cortinas</a></h3>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, ab!</p>
+                            <p>
+                                Tu hogar merece el lujo y la distinción que solo nuestras cortinas pueden brindar!
+                                <br><br>
+                            </p>
                             <div class="readmore-button">
                                 <a href="ser-wall-painting.html"><span class="flaticon-up-arrow"></span></a>
                             </div>
@@ -76,7 +82,7 @@
                     <div class="text-holder">
                         <div class="inner-text">
                             <h3><a href="ser-wall-sheets.html">Cojines</a></h3>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, ab!</p>
+                            <p>Desde estampados vibrantes hasta texturas suaves y detalles exquisitos, diseñados para despertar tus sentidos y transformar cualquier ambiente </p>
                             <div class="readmore-button">
                                 <a href="ser-wall-sheets.html"><span class="flaticon-up-arrow"></span></a>
                             </div>
@@ -97,7 +103,10 @@
                     <div class="text-holder">
                         <div class="inner-text">
                             <h3><a href="ser-interior-design.html">Tapicería</a></h3>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, ab!</p>
+                            <p>
+                                ¡Revive tus muebles y dale un nuevo aire a tus espacios con nuestra tapicería de
+                                ensueño!
+                            </p>
                             <div class="readmore-button">
                                 <a href="ser-interior-design.html"><span class="flaticon-up-arrow"></span></a>
                             </div>

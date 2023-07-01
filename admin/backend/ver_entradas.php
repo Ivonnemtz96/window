@@ -55,7 +55,7 @@
                 <div class="card-footer">
                     <div class="row ">
                         <div class="col-10">
-                            <button class="btn btn-primary mt-4 mb-4">Editar</button>  
+                            <a href="/admin/editar_blog?blogId='.$row['blog_id'].'" class="btn btn-primary mt-4 mb-4">Editar</a>  
                             <a href="/admin/galeria?blogId='.$row['blog_id'].'" style="color:#fff;" class="btn btn-primary mt-4 mb-4">Galería</a>  
                             <button class="btn btn-primary mt-4 mb-4">Borrar</button>  
                         </div>
