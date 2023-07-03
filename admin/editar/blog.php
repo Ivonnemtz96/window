@@ -9,7 +9,7 @@
                     <div class="body">
                         <form id="" method="POST" novalidate enctype="multipart/form-data">
                             <?
-                                require_once($_SERVER["DOCUMENT_ROOT"]."/admin/backend/editar_blog.php");
+                                require_once($_SERVER["DOCUMENT_ROOT"]."/admin/backend/ver_editBlog.php");
                             ?>
                         </form>
                     </div>
