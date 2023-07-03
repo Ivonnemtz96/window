@@ -6,7 +6,8 @@ RewriteEngine on
 # RewriteRule ^/index([0-9]+)$ index.php?id=$1
 # RewriteRule ^contacto/([0-9]+)$ contacto.php/modules/contacto.php
 # RewriteRule ^propiedades/([0-9]+)$ propiedades.php/modules/propiedades.php
-# RewriteRule ^galeria/([0-9]+)$ galeria.php/modules/galeria.php
+
+
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^/]+)/$ $1.php
