@@ -96,16 +96,12 @@ if (isset($_POST["submit"])) {
             } else {
                 echo "Ha ocurrido un error al subir el archivo, por favor reintente nuevamente.";
             }
-        } else {
+        } else{
             // Hubo un error al mover la imagen
             echo "Por favor, seleccione una imagen para subir.";
         }
 }
 }
-
-
-
-
 
 
 
