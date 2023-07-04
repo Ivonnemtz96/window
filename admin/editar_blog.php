@@ -1,9 +1,11 @@
 <?
  session_start();
+
  if (!isset($_SESSION['user_id'])) {
      header("Location: /admin/login/");
      exit();
  }
+
 ?>
 
 <!DOCTYPE html>
@@ -31,6 +33,9 @@ include('includes/head.php');
     <?
         include('includes/scripts.php');
     ?>
+    <?
+include('backend/editar_entrada.php');
+?>
 
 
 </body>
@@ -38,3 +43,4 @@ include('includes/head.php');
 
 
 </html>
+
