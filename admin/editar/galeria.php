@@ -11,17 +11,15 @@
                             <div class="row clearfix">
                                 <div class="col-md-12">
                                     <div>
-                                        <input type="file" name="foto" id="foto" class="custom-input-file"
-                                            data-multiple-caption="{count} files selected" multiple />
-                                        <label for="foto">
-                                            <i class="fa fa-upload"></i>
-                                            <span>Choose a file…</span>
-                                        </label>
+
+                                    <label>Seleccione una foto de portada</label>
+                                        <input type="file" name="foto" id="foto"
+                                            class="form-control " accept="image/*" data-multiple-caption="{count} files selected" multiple>
                                     </div>
                                 </div>
-                                <div class="col-lg-12">
+                                <div class="col-lg-12 mt-3">
                                     <button type="submit" name="submit" value="submit" class="btn btn-primary">
-                                        Crear
+                                        Subir foto
                                     </button>
                                 </div>
                             </div>

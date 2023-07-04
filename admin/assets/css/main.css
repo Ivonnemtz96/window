@@ -4413,6 +4413,7 @@ input[type="button"].btn-block {
   margin-bottom: 1rem;
   border: 0.0625rem solid transparent;
   border-radius: 0.215rem;
+  
 }
 .alert-heading {
   color: inherit;
@@ -10349,6 +10350,8 @@ button.bg-lighter:focus {
   color: #fff;
   padding: 1rem 1.5rem;
   border: 0;
+  top: 8rem;
+  z-index: 9999;
 }
 .alert .alert-inner--icon {
   font-size: 1.25rem;
