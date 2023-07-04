@@ -21,8 +21,8 @@
                 data-wow-duration="1500ms">
                 <div class="img-holder">
                     <div class="inner" >
-                        <div class="container">
-                            <img src="/upload/portada/'.date('Y/m', strtotime($row['blog_fecha'])).'/'.$row['blog_portada'].'.jpg" alt="Awesome Image">
+                        <div class="container" style="background-image:url(/upload/portada/'.date('Y/m', strtotime($row['blog_fecha'])).'/'.$row['blog_portada'].'.jpg); heigth:7rem; height: 18rem;background-size: cover;background-position: center;">
+                            
                         </div>
                         <div class="overlay-icon">
                             <a href="/project-detail2.php?id='.$row['blog_id'].'"><span class="flaticon-plus"></span></a>
