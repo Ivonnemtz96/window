@@ -57,7 +57,7 @@
                                             class="form-control" accept="image/*">
                                         <br><br>
                                         <!-- La imagen que vamos a usar para previsualizar lo que el usuario selecciona -->
-                                        <img style="max-width: 100%;" id="imagenPrevisualizacion">
+                                        <img style="max-width: 30%;" id="imagenPrevisualizacion">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
