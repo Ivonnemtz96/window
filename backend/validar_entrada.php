@@ -1,5 +1,4 @@
 <?
-
 $id = $_GET['id'];
 
 // Consulta para verificar si el ID existe en la base de datos
@@ -17,8 +16,8 @@ $blog_nom = $row['blog_nom'];
 
 if ($total > 0) {
 } else {
-    // El ID no existe en la base de datos, redireccionar a blogs.php
-    header("Location: blog.php");
+    // El ID no existe en la base de datos, redireccionar a blog.php
+    header("Location: /blog");
     exit;
 }
 

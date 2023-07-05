@@ -2,7 +2,7 @@
 <html lang="en">
 <?php
 $title = 'Servicios';
-$servicios = 'current';
+$blog = 'current';
 include('includes/head.php');
 ?>
 
