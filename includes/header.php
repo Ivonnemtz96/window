@@ -76,6 +76,7 @@
                                     <li class="<?echo $servicios?>"><a href="/services">Servicios</a></li>
                                     <li class="<?echo $galeria?>"><a href="/gallery">Galería</a></li>
                                     <li class="<?echo $blog?>"><a href="/blog">Blog</a></li>
+                                    <li class="<?echo $medir?>"><a href="/medir">Medir</a></li>
                                     <li class="<?echo $contacto?>"><a href="/contact">Contáctanos</a></li>
                                 </ul>
                             </div>
@@ -96,7 +97,7 @@
                                         class="fa fa-facebook" aria-hidden="true"></i></a>
                             </li>
                             <li>
-                                <a href="https://instagram.com/senzlapaz?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><i
+                                <a href="https://instagram.com/windowcoverings_bcs?igshid=MzRlODBiNWFlZA==" target="_blank"><i
                                         class="fa fa-instagram" aria-hidden="true"></i></a>
                             </li>
                         </ul>
@@ -152,7 +153,7 @@
                 <ul class="clearfix">
                     <li><a href="https://www.facebook.com/SenzPersianasLPZ/" target="_blank"><span
                                 class="fab fa fa-facebook-square"></span></a></li>
-                    <li><a href="https://instagram.com/senzlapaz?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><span
+                    <li><a href="https://instagram.com/windowcoverings_bcs?igshid=MzRlODBiNWFlZA==" target="_blank"><span
                                 class="fab fa fa-instagram"></span></a></li>
                 </ul>
             </div>

@@ -43,7 +43,7 @@
                     <div class="text">
                         <h3>Dirección</h3>
                         <p>
-                            <a target="_blank" href="https://goo.gl/maps/vYuBdBxgnSLzKfuk6?coh=178573&entry=tt">
+                            <a target="_blank" href="https://goo.gl/maps/SuoFzyWE1XdD3GB27">
                                 Los Barriles <br> Baja California Sur
                             </a>
                         </p>
@@ -57,8 +57,7 @@
                     </div>
                     <div class="text">
                         <h3>Contacto</h3>
-                        <p><a target="_blank"
-                                href="mailto:info@windowcoverings.com">info@windowcoverings.com</a><br>
+                        <p><a target="_blank" href="mailto:info@windowcoverings.com">info@windowcoverings.com</a><br>
                             <a target="_blank" href="tel:+526121552640">+612 155 2640</a>
                         </p>
                     </div>
@@ -90,12 +89,10 @@
                                 <div class="row">
                                     <div class="col-xl-6">
                                         <div class="input-box">
-                                            <input type="text" name="nombre" value="" placeholder="Nombre"
-                                                required="">
+                                            <input type="text" name="nombre" value="" placeholder="Nombre" required="">
                                         </div>
                                         <div class="input-box">
-                                            <input type="email" name="mail" value="" placeholder="Correo"
-                                                required="">
+                                            <input type="email" name="mail" value="" placeholder="Correo" required="">
                                         </div>
                                         <div class="input-box">
                                             <input type="text" name="tel" value="" placeholder="Teléfono">
@@ -131,8 +128,9 @@
 <section class="home-map-area">
     <div class="home-map-outer">
         <!--Map Canvas-->
+
         <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14615.403849243263!2d-109.72775614109104!3d23.6812872326273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af78a5d1b07559%3A0x444e66b829d9e557!2sLos%20Barriles%2C%20B.C.S.!5e0!3m2!1ses-419!2smx!4v1684343439636!5m2!1ses-419!2smx"
+            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2285.1848071279505!2d-109.70059533055938!3d23.68342434733875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjPCsDQxJzAwLjkiTiAxMDnCsDQxJzU0LjkiVw!5e0!3m2!1ses!2smx!4v1688592462644!5m2!1ses!2smx"
             width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
