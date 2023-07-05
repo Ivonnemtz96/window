@@ -26,9 +26,7 @@
                         <div class="overlay-icon">
                             <a href="/blog/'.$row['blog_id'].'"><span class="flaticon-plus"></span></a>
                         </div>
-                        <div class="date-box">
-                            <h5>'.$row['blog_fecha'].'</h5>
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="text-holder">
