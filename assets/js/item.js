@@ -20,7 +20,7 @@ let imageIndex = 0;
 for (let i = 1; i <= 12; i++) {
     let item = {
         id: i,
-        title: `Post ${i}`,
+        title: `Window ${i}`,
         image: images[imageIndex],
     };
     posts.push(item);

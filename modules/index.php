@@ -76,11 +76,10 @@
                     <div class="inner-content">
                         <div class="text">
                             <p>
-                                Con más de 30 años de experiencia en el mercado, somos la empresa líder en la industria
-                                de persianas y cortinas. Nos enorgullece ofrecer a nuestros clientes productos de la más
-                                alta calidad, respaldados por décadas de conocimiento y experiencia en el sector.
-                                Nuestro compromiso con la excelencia nos ha convertido en la elección confiable para
-                                varios decenas de nuestros clientes satisfechos.
+                                ¡Descubre un mundo de elegancia y funcionalidad con nuestra empresa de venta de
+                                productos de calidad en persianas y cortinas! Sumérgete en un universo de estilo y
+                                diseño, donde cada detalle está cuidadosamente seleccionado para ofrecerte la máxima
+                                calidad y satisfacción.
                             </p>
                         </div>
                         <ul>
@@ -107,11 +106,11 @@
                         <img src="/assets/images/shape/shape-3.png" alt="">
                     </div>
                     <div class="main-image">
-                        <img src="/assets/images/about/about-1.png?=1" alt="Awesome Image">
-                        <div class="icon-box thm-bgclr paroller-2">
+                        <img style="width: 85%;" src="/assets/images/about/about-2.jpg?=1" alt="Awesome Image">
+                        <!-- <div class="icon-box thm-bgclr paroller-2">
                             <img style="width: 4rem;" src="/assets/images/icon/window.png" alt="">
                             <h3>Desde<br> 1993</h3>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -169,7 +168,8 @@
                         </li>
                     </ul>
                     <div class="buttom-box">
-                        <button class="btn-one" onclick="window.location.href='/contact'"><span class="txt">Cotiza gratis</span></button>
+                        <button class="btn-one" onclick="window.location.href='/contact'"><span class="txt">Cotiza
+                                gratis</span></button>
                     </div>
                 </div>
             </div>
@@ -606,9 +606,9 @@
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
-                            <div class="date-box">
+                            <!-- <div class="date-box">
                                 <h5>Jul 18, 2020</h5>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="text-holder">
@@ -633,9 +633,9 @@
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
-                            <div class="date-box">
+                            <!-- <div class="date-box">
                                 <h5>Jul 18, 2020</h5>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="text-holder">
@@ -660,9 +660,9 @@
                             <div class="overlay-icon">
                                 <a href="#"><span class="flaticon-plus"></span></a>
                             </div>
-                            <div class="date-box">
+                            <!-- <div class="date-box">
                                 <h5>Jul 18, 2020</h5>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="text-holder">

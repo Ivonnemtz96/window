@@ -82,7 +82,7 @@
                     <div class="text-holder">
                         <div class="inner-text">
                             <h3><a href="ser-wall-sheets.html">Cojines</a></h3>
-                            <p>Desde estampados vibrantes hasta texturas suaves y detalles exquisitos, diseñados para despertar tus sentidos y transformar cualquier ambiente </p>
+                            <p>Estampados vibrantes, texturas suaves y detalles exquisitos, diseñados para despertar tus sentidos y transformar cualquier ambiente </p>
                             <div class="readmore-button">
                                 <a href="ser-wall-sheets.html"><span class="flaticon-up-arrow"></span></a>
                             </div>
