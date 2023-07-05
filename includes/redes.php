@@ -186,13 +186,13 @@
 </div>
 
 <div class="insta-float">
-    <a href="https://www.instagram.com/senzlapaz/?igshid=NTc4MTIwNjQ2YQ%3D%3D" target="_blank">
-        <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@senzlapaz</small></span>
+    <a href="https://instagram.com/windowcoverings_bcs?igshid=MzRlODBiNWFlZA==" target="_blank">
+        <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@windowcoverings_bcs</small></span>
     </a>
 </div>
 
 <div class="fb-float">
-    <a href="https://www.facebook.com/SenzPersianasLPZ/" target="_blank">
+    <a href="https://www.facebook.com/SenzPersianasLPZ" target="_blank">
         <i style="margin: 0px 0px;" class="fa-brands fa-facebook"></i><span><small>Window Coverings</small></span>
     </a>
 </div>
