@@ -7,7 +7,8 @@ RewriteEngine on
 # RewriteRule ^contacto/([0-9]+)$ contacto.php/modules/contacto.php
 # RewriteRule ^propiedades/([0-9]+)$ propiedades.php/modules/propiedades.php
 
-
+RewriteEngine On
+RewriteRule ^blog/([^/]+)/?$ project-detail2.php?id=$1 [L,QSA]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^/]+)/$ $1.php
